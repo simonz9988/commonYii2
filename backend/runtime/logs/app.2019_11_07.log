@@ -1,0 +1,851 @@
+2019-11-07 08:35:08 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:35:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:35:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:35:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:50:28 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:50:31 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:50:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:50:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:50:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:24 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:26 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:27 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:30 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:51:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:27 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:28 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:31 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:54:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:55:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 08:58:24 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:20 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:22 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:36 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:52 [127.0.0.1][-][0d7dtq1qclq7mcli5uuito9oh7][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:01:52 [127.0.0.1][-][0d7dtq1qclq7mcli5uuito9oh7][error][yii\db\IntegrityException] exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:846
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(846): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\AdminRoleController.php(76): common\models\BaseModel->baseInsert('<span class="st...', '[<span class="s...')
+#3 [internal function]: backend_hq\controllers\AdminRoleController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[<span class="s...')
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[<span class="s...')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[<span class="s...')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+
+Next exception 'yii\db\IntegrityException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'name' cannot be null
+The SQL being executed was: INSERT INTO `admin_role` (`country_id`, `name`, `description`, `status`, `sync_status`, `is_deleted`, `create_time`) VALUES (0, NULL, NULL, 'ENABLED', 1, 'N', 1573088512)' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(856): yii\db\Schema->convertException(Object(PDOException), 'INSERT INTO `ad...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\AdminRoleController.php(76): common\models\BaseModel->baseInsert('<span class="st...', '[<span class="s...')
+#3 [internal function]: backend_hq\controllers\AdminRoleController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[<span class="s...')
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[<span class="s...')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[<span class="s...')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+Additional Information:
+Array
+(
+    [0] => 23000
+    [1] => 1048
+    [2] => Column 'name' cannot be null
+)
+
+2019-11-07 09:01:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:04:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:04:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:04:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:04:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:04:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:05:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:05:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:05:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:05:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:05:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:08:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:08:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:08:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:03 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:03 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:24 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:26 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:26 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:50 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:09:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:10:19 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:10:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:15:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:16:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:17 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:42 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:17:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:33:42 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:33:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:33:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:33:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:34:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:37:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:37:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:51:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:51:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:51:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:18 [127.0.0.1][admin][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:24 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:28 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:30 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:53:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:57:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:58:42 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:59:08 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 09:59:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:22 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:30 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:09:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:13:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:13:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:13:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:13:19 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:14:07 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:14:07 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'type' doesn't have a default value' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:846
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(846): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(123): common\models\BaseModel->baseInsert('support_video', Array)
+#3 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'type' doesn't have a default value
+The SQL being executed was: INSERT INTO `support_video` (`sort_order`, `status`, `is_deleted`, `create_time`, `modify_time`) VALUES (99, 'ENABLED', 'N', 1573092847, 1573092847)' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(856): yii\db\Schema->convertException(Object(PDOException), 'INSERT INTO `su...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(123): common\models\BaseModel->baseInsert('support_video', Array)
+#3 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'type' doesn't have a default value
+)
+
+2019-11-07 10:14:09 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:14:09 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1364 Field 'type' doesn't have a default value' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:846
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(846): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(123): common\models\BaseModel->baseInsert('support_video', Array)
+#3 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'type' doesn't have a default value
+The SQL being executed was: INSERT INTO `support_video` (`sort_order`, `status`, `is_deleted`, `create_time`, `modify_time`) VALUES (99, 'ENABLED', 'N', 1573092849, 1573092849)' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(856): yii\db\Schema->convertException(Object(PDOException), 'INSERT INTO `su...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(123): common\models\BaseModel->baseInsert('support_video', Array)
+#3 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#10 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'type' doesn't have a default value
+)
+
+2019-11-07 10:14:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:16:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:16:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:08 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:50 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:50 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cover_img_url' in 'field list'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:846
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(846): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportVideoDescription.php(92): common\models\BaseModel->baseInsert('support_video_d...', Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(132): backend_hq\models\SupportVideoDescription->addData('1', 1, Array)
+#4 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#11 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cover_img_url' in 'field list'
+The SQL being executed was: INSERT INTO `support_video_description` (`title`, `video_url`, `cover_img_url`, `support_video_id`, `language_id`, `create_time`, `modify_time`) VALUES ('title', 'https://www.ecovacs.com/link1', 'upload/image/goods/2019/11/06/160028_1203.png', 1, 1, 1573093190, 1573093190)' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(856): yii\db\Schema->convertException(Object(PDOException), 'INSERT INTO `su...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportVideoDescription.php(92): common\models\BaseModel->baseInsert('support_video_d...', Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(132): backend_hq\models\SupportVideoDescription->addData('1', 1, Array)
+#4 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#11 {main}
+Additional Information:
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'cover_img_url' in 'field list'
+)
+
+2019-11-07 10:19:53 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:19:53 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cover_img_url' in 'field list'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:846
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(846): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportVideoDescription.php(92): common\models\BaseModel->baseInsert('support_video_d...', Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(132): backend_hq\models\SupportVideoDescription->addData('2', 1, Array)
+#4 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#11 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cover_img_url' in 'field list'
+The SQL being executed was: INSERT INTO `support_video_description` (`title`, `video_url`, `cover_img_url`, `support_video_id`, `language_id`, `create_time`, `modify_time`) VALUES ('title', 'https://www.ecovacs.com/link1', 'upload/image/goods/2019/11/06/160028_1203.png', 2, 1, 1573093193, 1573093193)' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(856): yii\db\Schema->convertException(Object(PDOException), 'INSERT INTO `su...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\common\models\BaseModel.php(46): yii\db\Command->execute()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportVideoDescription.php(92): common\models\BaseModel->baseInsert('support_video_d...', Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportVideoController.php(132): backend_hq\models\SupportVideoDescription->addData('2', 1, Array)
+#4 [internal function]: backend_hq\controllers\SupportVideoController->actionSave()
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('save', Array)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/s...', Array)
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#11 {main}
+Additional Information:
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'cover_img_url' in 'field list'
+)
+
+2019-11-07 10:21:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:19 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:21:25 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:22:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:22:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:22:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:03 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:19 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:36 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:23:56 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:26:28 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:26:31 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:26:32 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:902
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(902): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportQuickGuideRelation.php(96): yii\db\Query->all()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportQuickGuideController.php(67): backend_hq\models\SupportQuickGuideRelation->getProductList('<span class="st...')
+#5 [internal function]: backend_hq\controllers\SupportQuickGuideController->actionEdit()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[<span class="s...')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[<span class="s...')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[<span class="s...')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#12 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+The SQL being executed was: SELECT `product_id` FROM `support_quick_guide_relation` WHERE support_quick_guide_id=:support_quick_guide_id AND is_deleted='N'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(917): yii\db\Schema->convertException(Object(PDOException), 'SELECT `product...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\SupportQuickGuideRelation.php(96): yii\db\Query->all()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\SupportQuickGuideController.php(67): backend_hq\models\SupportQuickGuideRelation->getProductList('<span class="st...')
+#5 [internal function]: backend_hq\controllers\SupportQuickGuideController->actionEdit()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[<span class="s...')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[<span class="s...')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[<span class="s...')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#12 {main}
+Additional Information:
+Array
+(
+    [0] => HY093
+    [1] => 0
+)
+
+2019-11-07 10:28:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:28:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:28:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:28:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:29:53 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:29:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:30:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:30:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:30:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:39:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:39:20 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 10:39:25 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:20:35 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:20:35 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: MemCache requires PHP memcache extension to be loaded. in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\caching\MemCache.php:220
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\caching\MemCache.php(116): yii\caching\MemCache->getMemcache()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\caching\MemCache->init()
+#2 [internal function]: yii\base\Object->__construct(Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(381): ReflectionClass->newInstanceArgs(Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(156): yii\di\Container->build('yii\\caching\\Mem...', Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('yii\\caching\\Mem...', Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(135): yii\BaseYii::createObject(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\UrlManager.php(182): yii\di\ServiceLocator->get('cache', false)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\web\UrlManager->init()
+#9 [internal function]: yii\base\Object->__construct(Array)
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(381): ReflectionClass->newInstanceArgs(Array)
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(156): yii\di\Container->build('yii\\web\\UrlMana...', Array, Array)
+#12 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('yii\\web\\UrlMana...', Array, Array)
+#13 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(135): yii\BaseYii::createObject(Array)
+#14 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(568): yii\di\ServiceLocator->get('urlManager')
+#15 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2-gii\Module.php(89): yii\base\Application->getUrlManager()
+#16 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(320): yii\gii\Module->bootstrap(Object(yii\web\Application))
+#17 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(69): yii\base\Application->bootstrap()
+#18 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(272): yii\web\Application->bootstrap()
+#19 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\base\Application->init()
+#20 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(205): yii\base\Object->__construct(Array)
+#21 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->__construct(Array)
+#22 {main}
+2019-11-07 11:22:22 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:22:22 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: MemCache requires PHP memcache extension to be loaded. in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\caching\MemCache.php:220
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\caching\MemCache.php(116): yii\caching\MemCache->getMemcache()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\caching\MemCache->init()
+#2 [internal function]: yii\base\Object->__construct(Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(381): ReflectionClass->newInstanceArgs(Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(156): yii\di\Container->build('yii\\caching\\Mem...', Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('yii\\caching\\Mem...', Array, Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(135): yii\BaseYii::createObject(Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\UrlManager.php(182): yii\di\ServiceLocator->get('cache', false)
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\web\UrlManager->init()
+#9 [internal function]: yii\base\Object->__construct(Array)
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(381): ReflectionClass->newInstanceArgs(Array)
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(156): yii\di\Container->build('yii\\web\\UrlMana...', Array, Array)
+#12 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('yii\\web\\UrlMana...', Array, Array)
+#13 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(135): yii\BaseYii::createObject(Array)
+#14 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(568): yii\di\ServiceLocator->get('urlManager')
+#15 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2-gii\Module.php(89): yii\base\Application->getUrlManager()
+#16 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(320): yii\gii\Module->bootstrap(Object(yii\web\Application))
+#17 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(69): yii\base\Application->bootstrap()
+#18 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(272): yii\web\Application->bootstrap()
+#19 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\base\Application->init()
+#20 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(205): yii\base\Object->__construct(Array)
+#21 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->__construct(Array)
+#22 {main}
+2019-11-07 11:28:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:29:01 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:43:22 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 11:43:22 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\db\Exception] PDOException: SQLSTATE[08004] [1040] Too many connections in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php:630
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(630): PDO->__construct('mysql:host=10.1...', 'root', 'kws@1234', NULL)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(563): yii\db\Connection->createPdoInstance()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(896): yii\db\Connection->open()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(883): yii\db\Connection->getMasterPdo()
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(219): yii\db\Connection->getSlavePdo()
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(896): yii\db\Command->prepare(true)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\AdminRule.php(204): yii\db\Query->all()
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\BackendController.php(38): backend_hq\models\AdminRule->getSuperLeftMenu()
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\BackendController.php(152): backend_hq\controllers\BackendController->getLeftMenus()
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(154): backend_hq\controllers\BackendController->beforeAction(Object(yii\base\InlineAction))
+#12 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('list', Array)
+#13 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/l...', Array)
+#14 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#16 {main}
+
+Next yii\db\Exception: SQLSTATE[08004] [1040] Too many connections in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php:568
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(896): yii\db\Connection->open()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Connection.php(883): yii\db\Connection->getMasterPdo()
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(219): yii\db\Connection->getSlavePdo()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(896): yii\db\Command->prepare(true)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\AdminRule.php(204): yii\db\Query->all()
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\BackendController.php(38): backend_hq\models\AdminRule->getSuperLeftMenu()
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\BackendController.php(152): backend_hq\controllers\BackendController->getLeftMenus()
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(154): backend_hq\controllers\BackendController->beforeAction(Object(yii\base\InlineAction))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('list', Array)
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('support-video/l...', Array)
+#12 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(41): yii\base\Application->run()
+#14 {main}
+Additional Information:
+
+2019-11-07 11:43:22 [127.0.0.1][-][uj40uog176fg0mgalbnrugm2u0][error][yii\base\ErrorException:32] yii\base\ErrorException: PHP Startup: Unable to load dynamic library 'D:\phpStudy2\php\php-7.0.12-nts\ext\php_rdkafka.dll' - �Ҳ���ָ����ģ�顣
+ in Unknown:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2019-11-07 13:07:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:22:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:23:01 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:23:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:23:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:23:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:23:27 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:42:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:42:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:42:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:43:01 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:43:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:17 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:48:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:50:01 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:50:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:50:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 13:50:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:31:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:50 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:56 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:32:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:03 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:33:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:52 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:57:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:58:11 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:58:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 15:58:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:01:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:01:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:02:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:02:08 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:02:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:19 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:25 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:29 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:03:31 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:06 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:28 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:31 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:36 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:14:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:42 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 16:19:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 17:26:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-11-07 17:26:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20

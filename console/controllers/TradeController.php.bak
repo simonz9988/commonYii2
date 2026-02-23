@@ -1,0 +1,225 @@
+<?php
+namespace console\controllers;
+
+use backend\models\AdminApiKey;
+use backend\models\OkexLedger;
+use backend\models\OkexTotalOrder;
+use common\components\CommonLogger;
+use common\components\MyRedis;
+use common\components\PlatformTradeCommon;
+use common\components\PlatformTradeCommonV2;
+use common\components\PlatformTradeCommonV4;
+use common\components\TradeCommon;
+use common\components\UsdtTradeCommon;
+use common\models\OkexOrder;
+use common\models\SiteConfig;
+use okv3\SwapApi;
+use yii\console\Controller;
+
+//require_once ROOT_PATH.'/../../common/components/XunSearch/lib/XS.php';
+
+/**
+ * Cmd controller
+ */
+class TradeControllerBak extends CmdBaseController
+{
+
+    // 根据管理员信息进行交易
+    public function actionAdmin4(){
+
+        $action = '/trade/admin4';
+
+        $this->checkShell($action) ;
+
+        $model = new PlatformTradeCommonV4();
+
+        $model3 = new PlatformTradeCommonV4();
+
+        $model4 = new PlatformTradeCommonV4();
+        $model5 = new PlatformTradeCommonV4();
+        $model6 = new PlatformTradeCommonV4();
+
+        $api_model = new AdminApiKey() ;
+        $api_key_info  = $api_model->getRowByAdminUserId(9);
+        $api_key_info3  = $api_model->getRowByAdminUserId(2);
+        $api_key_info4  = $api_model->getRowByAdminUserId(3);
+        $api_key_info5  = $api_model->getRowByAdminUserId(4);
+        $api_key_info6  = $api_model->getRowByAdminUserId(5);
+
+        $i = 0 ;
+        //while($i<45){
+
+            $model->doTrade('up',$api_key_info);
+            //$model3->doTrade('up',$api_key_info3);
+            //$model4->doTrade('up',$api_key_info4);
+            //$model5->doTrade('up',$api_key_info5);
+            //$model6->doTrade('up',$api_key_info6);
+
+           // echo 'UP====';
+           // sleep(1);
+
+
+           // $i++ ;
+        //}
+
+    }
+
+    // 根据管理员信息进行交易
+    public function actionAdmin5(){
+
+        $action = '/trade/admin5';
+
+        $this->checkShell($action) ;
+
+        $model = new PlatformTradeCommonV4();
+
+        $model3 = new PlatformTradeCommonV4();
+        $model4 = new PlatformTradeCommonV4();
+        $model5 = new PlatformTradeCommonV4();
+        $model6 = new PlatformTradeCommonV4();
+
+
+        $api_model = new AdminApiKey() ;
+        $api_key_info  = $api_model->getRowByAdminUserId(1);
+        $api_key_info3  = $api_model->getRowByAdminUserId(2);
+        $api_key_info4  = $api_model->getRowByAdminUserId(3);
+        $api_key_info5  = $api_model->getRowByAdminUserId(4);
+        $api_key_info6  = $api_model->getRowByAdminUserId(5);
+
+        $i = 0 ;
+        while($i<45){
+
+            $model->doTrade('down',$api_key_info);
+            $model3->doTrade('down',$api_key_info3);
+            $model4->doTrade('down',$api_key_info4);
+            $model5->doTrade('down',$api_key_info5);
+            $model6->doTrade('down',$api_key_info6);
+
+            echo 'DOWN====';
+            sleep(1);
+
+            $i++ ;
+        }
+
+    }
+
+    // 价格钉钉提醒
+    public function actionNoticePrice(){
+        $site_config_obj = new SiteConfig();
+        $is_start_notice_webhook = $site_config_obj->getByKey('is_start_notice_webhook');
+        if($is_start_notice_webhook !='Y'){
+            echo  'Not Start';exit;
+        }
+
+        // 读取当前价格
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(1);
+        $trade_obj = new PlatformTradeCommonV4();
+        $admin_user_id = $api_key_info['admin_user_id'];
+        $coin = $api_key_info['coin'];
+        $trade_obj->setConfigInfo($admin_user_id,$api_key_info,$coin,'up') ;
+        $mark_price = $trade_obj->getCoinMarkPriceFromService($coin);
+
+        $notice_webhook = $site_config_obj->getByKey('notice_webhook');
+        $i = 0 ;
+        while($i<8){
+            $up_notice_price = $site_config_obj->getByKey('up_notice_price');
+            if($up_notice_price && $mark_price >$up_notice_price){
+                $msg = '价格Up---'.$up_notice_price;
+                send_dingding_sms_by_webhook($msg,$notice_webhook);
+            }
+            sleep(1) ;
+            $down_notice_price = $site_config_obj->getByKey('down_notice_price');
+            if($down_notice_price && $mark_price <$down_notice_price){
+                $msg = '价格Down---'.$down_notice_price;
+                send_dingding_sms_by_webhook($msg,$notice_webhook);
+            }
+            sleep(1);
+            $i++ ;
+        }
+
+    }
+
+    // 测试查询订单信息
+    public function actionQueryOrder(){
+        // 订单号
+        $order_id = '502880594419953664';
+        $order_id = '502804800518664192';
+        $order_id = '502802705421873152';
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(2);
+        $admin_user_id = $api_key_info['admin_user_id'];
+        $coin = $api_key_info['coin'];
+        $trade_obj = new PlatformTradeCommonV4();
+        $trade_obj->setConfigInfo($admin_user_id,$api_key_info,$coin,'up') ;
+        $res = $trade_obj->getInfoByOrderIdFromService($order_id,$coin);
+        debug($res,1);
+    }
+
+    // 查询订单列表
+    public function actionQueryOrderList(){
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(2);
+        $admin_user_id = $api_key_info['admin_user_id'];
+        $coin = $api_key_info['coin'];
+        $trade_obj = new PlatformTradeCommonV4();
+        $trade_obj->setConfigInfo($admin_user_id,$api_key_info,$coin,'up') ;
+        $list = $trade_obj->queryOrderList($coin);
+        debug($list,1);
+    }
+
+    // 测试修复订单
+    public function actionTestFixOrder(){
+        $total_model = new OkexTotalOrder();
+
+        $total_model->fixOrderByAdminApiKey(11,'down');
+    }
+
+    public function actionTestGetLedger(){
+        $obj = new OkexLedger();
+        $obj->syncOrder(1);
+    }
+
+
+    // 查询订单列表
+    public function actionMarkPrice(){
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(2);
+        $admin_user_id = $api_key_info['admin_user_id'];
+        $coin = $api_key_info['coin'];
+        $trade_obj = new PlatformTradeCommonV4();
+        $trade_obj->setConfigInfo($admin_user_id,$api_key_info,$coin,'up') ;
+        $r = $trade_obj->getCoinMarkPriceFromService($coin);
+        var_dump($r);
+    }
+
+    public function actionGetHolding(){
+
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(9);
+        $admin_user_id = $api_key_info['admin_user_id'];
+        $coin = $api_key_info['coin'];
+        $trade_obj = new PlatformTradeCommonV4();
+        $trade_obj->setConfigInfo($admin_user_id,$api_key_info,$coin,'up') ;
+        $r = $trade_obj->getHoldAmount();
+        var_dump($r);
+    }
+
+    public function actionTest(){
+        $api_key_obj =  new AdminApiKey() ;
+        $api_key_info = $api_key_obj->getInfoById(2);
+        $okex_total_order_obj = new OkexTotalOrder();
+        $qty = 79;
+        $res = $okex_total_order_obj->getLevelByFilledQty($qty,$api_key_info) ;
+        var_dump($res);exit;
+    }
+
+    public function actionA(){
+
+        $xs = new \XS('demo');  // 必须先创建一个 xs 实例，否则会抛出异常
+        $tokenizer = new \XSTokenizerScws();   // 直接创建实例
+        $text = '上海人民公园';
+        $words = $tokenizer->getResult($text);
+        print_r($words);
+    }
+}

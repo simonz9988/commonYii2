@@ -1,0 +1,473 @@
+2019-10-21 10:57:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:57:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:00 [127.0.0.1][admin][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:57:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:08 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:08 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "language/list".' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('language/list', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'È°µÈù¢Êú™ÊâæÂà∞„ÄÇ' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#2 {main}
+2019-10-21 10:58:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:20 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:29 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:59 [127.0.0.1][-][nmu31n0fo9j3oiejpgk9gtkfs5][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:58:59 [127.0.0.1][-][nmu31n0fo9j3oiejpgk9gtkfs5][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Maximum execution time of 60 seconds exceeded' in x⁄ÌTÎn£F~ôHﬁ¸hƒ%iÇRW≈8∆Éâ¡Ê2?vÉ=∆ó‘áÔHbßRﬂ†Hña.gæÛ]Ê&ôNí¸P|ˇÒ}rÖ’˛˜˚˚úÒ˛€ç{7˘„Ô?\'w7Ê¯r{7ôN_¨˘t:yæÈ˚~:˘ÌˇÁÚLûˇ⁄7!˚ˆŒbºXúltVáÆ“cS†Ã.â<´ü∞otëlÙ(iSCÂk[2íaJá˝YCrªå2RòZ˙®eXå2K=•FK˚D^bk4%í[„±«ù™ ç‰kMMC_•oéöõ}–iWGô+]Kç%ØπÁNÍŸ<ô˘ ØVöc√yñ-áπù™‚uÙEçı3CsÅ÷xã_æl5ÅÙã≈ÂÈåE9Ùîûy—¨Â
+Œû)Øyï]È‚•êp<CüŸSÖ4õ˜◊«KTô[µ|ÌT8gV‚ÑR‰ÿE‡=§ëæ£úOa˝Áÿõ3Àà§úBIi±w_:k◊∞7 m)⁄‚Ω∑ÚøŒCÛ[°H{πÙ¶±G†— ¿QÏ5“ÿÉæˆ∞)(Z
+cÀFÎ;8˜xå2ª¬Á”bnâ‘àùkîÄNî…°Œ`ûqÊ6–€ÁY+Á˝¨óúG–TdëÏ
+´KøÄxØµYüäsÉﬁÊ‡≤≥∏G†6R„ÏâÛ}Ûµ‚KÆ‡K"ãı≈Î!pÆ0mAˇ‘b‹´DÜæÛ‹‘ó1÷‚xÂÃÜ⁄¿C<√~ÿ£¿8“1x¸˝µ.’ï^x˝Ï„©%Ï-Rº49Œ#ht‹;4âÂXÊY≤1Å$ˇXW‰(s∑æ3Œ/|gX Cnäî¸´÷ªø¡H0Á/ù≈◊üh˚:W˘ÿ=‰æw˝†Yb◊‹„8[Tê»ö›†ÂêãØ„îeêW‡‘—‡õ‘–7Â~‘*˘∫>5ÄOÆı)‘TÓ—Èã∏há‹m@/–à»nkêﬂ´\áNõbÌ>YüL…ü≠≥Gï±s√˜ÇóÈÍ¬+E[Å¢ÃÌHÇF<ºæéËõow±7‚›Æ4Lπ«ÕÆ<Ä `X≈˚Âß°˜êE¸~—›{¢ü9@ßÛ˛-·x>ﬁj‡~/º{±|€
+¬ÿÔ8œ˝˜Cÿ·~√ç◊[1h“¨R•∆ûÿêl˜s›°r™‹ﬁº5f8˛‹Ûq/˘†	‡:‡Jû~n•y¿ªS4‹/{´ﬁw“è:ı5/ªãAªïnA?…Z()ˆ¨°ﬂèlò¢PôŒ~\Ñx]≥kõNnoüˇÊQÊ(13) : eval()'d code(1) : eval()'d code:7
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2019-10-21 10:59:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:59:44 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:59:48 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 10:59:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:00:03 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:00:32 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:00:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:00:51 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:01:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:02:31 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:02:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:02:37 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:02:37 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "product-category/list".' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-categor...', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'È°µÈù¢Êú™ÊâæÂà∞„ÄÇ' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#2 {main}
+2019-10-21 11:21:14 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:21:14 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'The directory does not exist: D:/phpStudy2/WWW/shop/website4_0/backend/trunk/backend_hq/web/assets' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\AssetManager.php:213
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Object.php(107): yii\web\AssetManager->init()
+#1 [internal function]: yii\base\Object->__construct(Array)
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(375): ReflectionClass->newInstanceArgs(Array)
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\Container.php(156): yii\di\Container->build('yii\\web\\AssetMa...', Array, Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\BaseYii.php(344): yii\di\Container->get('yii\\web\\AssetMa...', Array, Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(135): yii\BaseYii::createObject(Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\di\ServiceLocator.php(73): yii\di\ServiceLocator->get('assetManager')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2-gii\Module.php(135): yii\di\ServiceLocator->__get('assetManager')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2-gii\Module.php(124): yii\gii\Module->resetGlobalSettings()
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(144): yii\gii\Module->beforeAction(Object(yii\base\InlineAction))
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('index', Array)
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('gii/default/ind...', Array)
+#12 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#14 {main}
+2019-10-21 11:21:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:21:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:22:27 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:22:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:22:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:22:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:23:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:23:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:23:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 11:23:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:09:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:09:39 [127.0.0.1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: backend_hq\models\ProductCategory::getSearchCondition()' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Component.php:290
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(25): yii\base\Component->__call('getSearchCondit...', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(25): backend_hq\models\ProductCategory->getSearchCondition(NULL)
+#2 [internal function]: backend_hq\controllers\ProductCategoryController->actionList()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('list', Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-categor...', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#9 {main}
+2019-10-21 13:09:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:10:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:10:13 [127.0.0.1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: backend_hq\models\ProductCategory::getSearchCondition()' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Component.php:290
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(25): yii\base\Component->__call('getSearchCondit...', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(25): backend_hq\models\ProductCategory->getSearchCondition(NULL)
+#2 [internal function]: backend_hq\controllers\ProductCategoryController->actionList()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('list', Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-categor...', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#9 {main}
+2019-10-21 13:10:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:15:57 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:15:57 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "language/list".' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php:532
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('language/list', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'È°µÈù¢Êú™ÊâæÂà∞„ÄÇ' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#2 {main}
+2019-10-21 13:29:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:29:05 [127.0.0.1][-][-][error][yii\base\UnknownMethodException] exception 'yii\base\UnknownMethodException' with message 'Calling unknown method: backend_hq\models\ProductCategory::getSearchCount()' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Component.php:290
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(27): yii\base\Component->__call('getSearchCount', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(27): backend_hq\models\ProductCategory->getSearchCount(Array)
+#2 [internal function]: backend_hq\controllers\ProductCategoryController->actionList()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams(Array)
+#5 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('list', Array)
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-categor...', Array)
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#9 {main}
+2019-10-21 13:30:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:35:24 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:35:24 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pc.name' in 'field list'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:902
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(902): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductCategory.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(34): backend_hq\models\ProductCategory->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductCategoryController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pc.name' in 'field list'
+The SQL being executed was: SELECT `pc`.`id`, `pc`.`create_time`, `pc`.`name` FROM `product_category` `pc` LEFT JOIN `product_category_description` `pcd` ON pcd.category_id = pc.id WHERE pc.is_deleted = 'N' GROUP BY `category_id` LIMIT 20' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(917): yii\db\Schema->convertException(Object(PDOException), 'SELECT `pc`.`id...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductCategory.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductCategoryController.php(34): backend_hq\models\ProductCategory->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductCategoryController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+Additional Information:
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'pc.name' in 'field list'
+)
+
+2019-10-21 13:37:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:37:21 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:37:22 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:38:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:38:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:38:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:39:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:39:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:50:56 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:50:56 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: product-series/edit' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('edit', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-series/...', Array)
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'È°µÈù¢Êú™ÊâæÂà∞„ÄÇ' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#2 {main}
+2019-10-21 13:51:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:08 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:16 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:19 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:51:19 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pc.name' in 'field list'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:902
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(902): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductSeries.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductSeriesController.php(35): backend_hq\models\ProductSeries->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductSeriesController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pc.name' in 'field list'
+The SQL being executed was: SELECT `pc`.`id`, `pc`.`create_time`, `pc`.`name` FROM `product_category` `pc` LEFT JOIN `product_series_description` `psd` ON psd.series_id = ps.id WHERE ps.is_deleted = 'N' GROUP BY `series_id` LIMIT 20' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(917): yii\db\Schema->convertException(Object(PDOException), 'SELECT `pc`.`id...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductSeries.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductSeriesController.php(35): backend_hq\models\ProductSeries->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductSeriesController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+Additional Information:
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'pc.name' in 'field list'
+)
+
+2019-10-21 13:52:07 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 13:52:07 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ps.name' in 'field list'' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php:902
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(902): PDOStatement->execute()
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductSeries.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductSeriesController.php(35): backend_hq\models\ProductSeries->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductSeriesController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ps.name' in 'field list'
+The SQL being executed was: SELECT `ps`.`id`, `ps`.`create_time`, `ps`.`name` FROM `product_series` `ps` LEFT JOIN `product_series_description` `psd` ON psd.series_id = ps.id WHERE ps.is_deleted = 'N' GROUP BY `series_id` LIMIT 20' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Schema.php:636
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(917): yii\db\Schema->convertException(Object(PDOException), 'SELECT `ps`.`id...')
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Command.php(362): yii\db\Command->queryInternal('<span class="st...', '<span class="ke...')
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\db\Query.php(213): yii\db\Command->queryAll()
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\models\ProductSeries.php(104): yii\db\Query->all(Object(yii\db\Connection))
+#4 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\controllers\ProductSeriesController.php(35): backend_hq\models\ProductSeries->getSearchList('[<span class="s...')
+#5 [internal function]: backend_hq\controllers\ProductSeriesController->actionList()
+#6 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array('[<span class="t...', '[]')
+#7 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams('[]')
+#8 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('<span class="st...', '[]')
+#9 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('<span class="st...', '[]')
+#10 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#12 {main}
+Additional Information:
+Array
+(
+    [0] => 42S22
+    [1] => 1054
+    [2] => Unknown column 'ps.name' in 'field list'
+)
+
+2019-10-21 13:52:20 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:28:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:29:09 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:34:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:35:01 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:35:01 [127.0.0.1][-][d7gpmbcdac45h796r5t65dgqd6][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: product-series/edit' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Controller.php:127
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Module.php(523): yii\base\Controller->runAction('edit', Array)
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction('product-series/...', Array)
+#2 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'È°µÈù¢Êú™ÊâæÂà∞„ÄÇ' in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\web\Application.php:114
+Stack trace:
+#0 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\yiisoft\yii2\base\Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpStudy2\WWW\shop\website4_0\backend\trunk\backend_hq\web\index.php(37): yii\base\Application->run()
+#2 {main}
+2019-10-21 14:35:04 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:35:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:36:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:40:33 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:41:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 14:43:25 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:00:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:00:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:00:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:01:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:01:38 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:01:50 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:07 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:10 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:26 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:30 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:39 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:02:53 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:03:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:03:18 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:03:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:03:45 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:03:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:04:41 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:04:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:04:55 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:04:59 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:01 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:05 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:12 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:17 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:23 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:26 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:30 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:05:34 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:00 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:02 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:37 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:40 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:46 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:50 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:54 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20
+2019-10-21 15:06:57 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+    in D:\phpStudy2\WWW\shop\website4_0\backend\trunk\vendor\alcad\yii2-cas\Cas.php:20

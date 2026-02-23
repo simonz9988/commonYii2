@@ -1,0 +1,1 @@
+<iframe width="100%" style="height: 900px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="<?=$total_map_url?>"></iframe>

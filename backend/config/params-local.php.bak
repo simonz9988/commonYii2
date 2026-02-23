@@ -1,0 +1,4 @@
+<?php
+return [
+    'session' => ['name'=>'shopsessionid','cookie_domain'=>'.ecovacs.com'],
+];

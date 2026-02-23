@@ -1,0 +1,171 @@
+.dropdown-submenu {
+    position: relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: 0px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+.dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 10px;
+    margin-right: 0px;
+}
+.dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+.dropdown-submenu.dropdown-submenu-left {
+
+}
+.dropdown-submenu.dropdown-submenu-left > .dropdown-menu {
+    left: -107%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.judged-div .form-group .col-md-9{
+    position:relative;
+}
+.judged-div .form-group .col-md-9 span.text-success{
+    position: absolute;
+    right: 14px;
+    top: 15px;
+}
+.judged-div .form-group .col-md-9 span.text-danger{
+    position: absolute;
+    right: 29px;
+    top: 6px;
+}
+
+
+.judged-div .form-group .col-md-9 span.text-success{
+    position: absolute;
+    right: 26px;
+    top: 6px;
+}
+.judged-div table td{
+    position:relative;
+}
+
+.judged-div table td span.text-success{
+    position: absolute;
+    right: 14px;
+    top: 15px;
+}
+.row-form-4 .form-control-static {
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+.row-form-4 li {
+    margin-bottom: 0px;
+}
+
+.row-form-4 .form-group {
+    margin-bottom: 4px;
+}
+
+.row-form-4 .form-group label.text-right {
+    padding-right: 0px;
+}
+
+.row-form-4 textarea {
+    cursor: text !important;
+}
+
+/* pagnation */
+.m-page {
+    color: #999;
+    font-size: 0;
+    letter-spacing: -0.307em;
+    line-height: 32px;
+    margin: 10px 0 0;
+    overflow-wrap: normal;
+    text-align: center;
+    white-space: nowrap;
+}
+.m-page a, .m-page i {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: normal;
+    margin-left: 5px;
+    padding: 0 12px;
+    vertical-align: top;
+    word-spacing: normal;
+}
+.m-page a, .m-page a:hover {
+    text-decoration: none;
+}
+.m-page a.first {
+    margin-left: 0;
+}
+.m-page a.last {
+    margin-right: 0;
+}
+.m-page a .pagearr {
+    font-weight: bold;
+    vertical-align: top;
+}
+.m-page a.pageprv .pagearr {
+    margin-right: 3px;
+}
+.m-page a.pagenxt .pagearr {
+    margin-left: 3px;
+}
+.m-page a:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ee0a3b;
+    color: #ee0a3b;
+}
+.m-page a:active {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ee0a3b;
+    color: #ee0a3b;
+}
+.m-page a.z-crt, .m-page a.z-crt:hover, .m-page a.z-crt:active {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ee0a3b;
+    color: #ee0a3b;
+    cursor: default;
+}
+.m-page a.z-dis, .m-page a.z-dis:hover, .m-page a.z-dis:active {
+    background: #fff none repeat scroll 0 0;
+    color: #ccc;
+    cursor: default;
+}
+.m-page-lt {
+    text-align: left;
+}
+.m-page-rt {
+    text-align: right;
+}
+.m-page-sm {
+    line-height: 22px;
+}
+.m-page-sm a, .m-page-sm i {
+    padding: 0 8px;
+}
+.m-page-sr a, .m-page-sr i {
+    margin: 0 3px;
+}
+.m-page-sr i {
+    border: 0 none;
+}

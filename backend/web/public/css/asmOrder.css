@@ -1,0 +1,60 @@
+.uploader-list{margin-bottom: 50px}
+.label-name{width: 100px;}
+.label-size{width: 75px;}
+.after-sales-item{display: none;margin-top: 20px}
+.form-afterSales{display: none}
+.page-refund{display: none}
+.asm-hide{display: none}
+.page-margin .row{margin-left: 20px}
+.sub-title{
+     margin-bottom: 20px;
+    /* padding-bottom: 10px; */
+    /* margin-top: 5px; */
+    width: 99%;
+    border-bottom-color: #d5e3ef;
+    border-bottom: 1px dashed #CCC;
+    margin-left: 1%;
+    font-size: 14px;
+    /* font-weight: 600; */}
+
+div.asm-hide  .page-box {
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+
+}
+select option.option-hide{
+    display: none;
+}
+.order-type-item {
+    display: none;
+}
+
+.invoice-upload{
+    width: 100%;
+    height: 95%;
+    position: absolute;
+    z-index: 100;
+    outline: 0px;
+    cursor: pointer;
+}
+
+.detail-problemDesc{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 16px;
+ }
+
+.file-item{
+    width: 250px;
+    float: left;
+}
+
+div#handlePicker .webuploader-pick{
+    width: 100px;
+    height: 35px;
+    background-color: #d15b47 !important;
+    border-color: #d15b47;
+}
+.chooseOriginalOrderProductButton {
+    margin: 0 5px 0 5px;
+}

@@ -1,0 +1,176 @@
+﻿
+#grid-table .cbox, .ui-jqgrid-htable .cbox {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.row-form-4 li {
+    margin-bottom: 0px;
+}
+
+.row-form-4 .form-group {
+    margin-bottom: 4px;
+}
+
+.row-form-4 .form-group label.text-right {
+    padding-right: 0px;
+}
+
+.dropdown-menu > li > a, .dropdown-menu a, .J_shipping_gift {
+    cursor: pointer;
+}
+
+.list-tabtable .dropdown-hover {
+    cursor: pointer;
+}
+
+.row-form-4 .form-control-static {
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.row-form-4 textarea {
+    cursor: text !important;
+}
+
+.widget-header-home {
+    border-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.table td {
+
+    vertical-align: middle !important;
+}
+
+.taobao-pagecotent {
+
+}
+
+@media (min-width: 1200px) {
+
+    .list-tabtable {
+        text-align: right;
+    }
+
+}
+
+.list-tabtable .btn label {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.page-btnarea .btn-group > .btn:first-child {
+    margin: 0 -1px 0 0;
+}
+
+.page-btnarea .btn-white {
+    text-shadow: 0 1px 1px #EEE !important;
+    color: #5a5a5a !important;
+    background: #ededed !important;
+    font-weight: 600;
+    background-image: -webkit-linear-gradient(top, #ffffff 0, #f2f2f2 100%) !important;
+    background-image: linear-gradient(to bottom, #ffffff 0, #f2f2f2 100%) !important;
+    background-repeat: repeat-x !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0) !important
+}
+
+.btn.btn-app.btn-white, .btn.btn-app.btn-white.disabled:hover, .btn.btn-app.btn-white.no-hover:hover {
+    background: #ededed !important;
+}
+
+.page-btnarea .btn-white:hover {
+    background: #e0e0e0 !important;
+    background-image: -webkit-linear-gradient(top, #f2f2f2 0, #E7E7E7 100%) !important;
+    background-image: linear-gradient(to bottom, #f2f2f2 0, #E7E7E7 100%) !important;
+    background-repeat: repeat-x !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2f2f2', endColorstr='#ffE7E7E7', GradientType=0) !important
+}
+
+.page-btnarea .disabled {
+    cursor: not-allowed !important;
+    font-weight: normal;
+    pointer-events: all;
+}
+
+.btn-disabled {
+    pointer-events: all !important;
+}
+
+.page-btnarea .btn-xs {
+    padding: 2px 6px;
+    font-size: 13px;
+}
+
+.padding-80 {
+    padding: 8px 0px !important;
+}
+
+.table .form-group {
+    margin-bottom: 0px !important;
+}
+
+.nav-label {
+    margin: 0px !important;
+}
+
+.nav-checkbox {
+    margin: 0px !important;
+}
+
+.ui-jqgrid .ui-pager-control {
+    height: 36px !important;
+}
+
+.ui-jqgrid .ui-jqgrid-pager {
+    height: 40px !important;
+}
+
+.ui-gird-cell-state-highlight {
+    background-color: green !important;
+}
+
+/* 拆单的样式开始 */
+#chaidan .order-address{
+    margin-top:6px;
+}
+#chaidan  .chaidanbody{
+    padding: 0px 12px;
+    background: rgb(253, 255, 242);
+    border: 1px solid #DDDDDD;
+    padding-bottom:10px;
+}
+#chaidan input.red{
+    width:100px;
+    font-size: 16px;
+}
+#chaidan .chaidan-item,#chaidan .chaidan-item-0{
+    padding: 6px;
+    border: 1px solid #EDD9A6;
+    background: #FCF8E3;
+    margin-top: 10px;
+}
+#chaidan .chaidanbody  h4{
+    margin-top: 0px;
+}
+#chaidan .well {
+    margin:0px;
+}
+#chaidan table{
+	background:white;
+}
+
+/*
+.list-detail-fix{
+ position: fixed;
+ z-index: 1030;
+ background:white;
+ bottom:0px;
+}
+.list-detial-fix .widget-body{
+max-height:200px;
+ overflow-y:auto;
+ overflow-x:hidden;
+}*/

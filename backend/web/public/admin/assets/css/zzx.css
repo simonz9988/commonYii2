@@ -1,0 +1,13 @@
+.table>tbody>tr>td {
+    word-break:break-all; 
+}
+.navbar{height:50px !important;min-height:50px !important;}
+#navbar a{display:block;text-align: center; line-height:50px;margin:auto 0 ;color: #ffffff;font-size: 20px;font-family: "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,sans-serif;}
+.navbar-fixed-top.navbar-collapse+.main-container {
+    padding-top: 55px !important;
+}
+.profile-user-info-striped .profile-info-value {
+    margin-left: 0px !important;
+}
+.profile-info-name{font-weight: bold !important;}
+.login-layout{background-size: 100% 100% !important;}

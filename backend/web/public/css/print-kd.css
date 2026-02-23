@@ -1,0 +1,3979 @@
+﻿body {
+	padding: 0px;
+	margin: 0px;
+}
+
+/*zto电子面单打印 B*/
+.zto_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 45px;
+	left:500px;
+}
+.zto_ec-box {
+	position: relative;
+	width: 520px;
+	height: 930px;
+	font-size: 15pt;
+	font-family: "黑体";
+	/*margin-left: 14px;*/
+	/*margin-top: 50px;*/
+}
+
+.zto_ec-box:first-child{
+	margin-top:0px ;
+}
+
+
+.zto_ec{
+	background: url(../images/express/zto_dzmd.png) no-repeat ;
+	display: inline-block;
+	background-size:100% 100%;
+}
+.zto_ec .order-no {
+	width: 211px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	text-align:center;
+	top: 60px;
+	left: 238px;
+	font-size: 13pt;
+
+}
+.zto_ec .warehouse{
+	z-index: 999;
+	line-height: 20px;
+	position: absolute;
+	top: 37px;
+	left: 443px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+	padding: 3px;
+	border: 2px solid #000;
+}
+.zto_ec .order-bono {
+	width: 111px;
+	padding-left: 0px;
+	height: 27px;
+	position: absolute;
+	top: 148px;
+	left: 396px;
+	font-size: 16pt;
+
+}
+.zto_ec .order-bono2 {
+	width: 130px;
+	padding-left: 0px;
+	height: 27px;
+	line-height: 16px;
+	position: absolute;
+	top: 30px;
+	left: 371px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-bono3 {
+	width: 232px;
+	padding-left: 0px;
+	position: absolute;
+	top: 581px;
+	left: 260px;
+	font-size: 13pt;
+	height: 38px;
+
+}
+.zto_ec .order-bono4 {
+	width: 236px;
+	padding-left: 0px;
+	position: absolute;
+	top: 622px;
+	left: 261px;
+	font-size: 12pt;
+	letter-spacing: 8px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.zto_ec .order-bono5 {
+	width: 368px;
+	padding-left: 0px;
+	position: absolute;
+	top: 360px;
+	font-size: 13pt;
+	height: 59px;
+	text-align: center;
+	left: 60px;
+}
+.zto_ec .order-bono6 {
+	width: 231px;
+	padding-left: 5px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 544px;
+	left: 504px;
+	font-size: 12pt;
+}
+
+.zto_ec .order-destination1 {
+	width: 171px;
+	height: 31px;
+	position: absolute;
+	top: 144px;
+	left: 136px;
+	font-weight: bold;
+	font-size: 21pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+.zto_ec .order-destination2 {
+	width: 495px;
+	height: 54px;
+	position: absolute;
+	top: 73px;
+	left: 18px;
+	font-weight: bold;
+	font-size: 32pt;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.zto_ec .order-destination3 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 122px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+.zto_ec .order-destination3 span,.zto_ec .order-destination2 span{
+	font-size: 24pt;
+}
+.zto_ec .order-recipient1{
+	width: 332px;
+	height: 50px;
+	line-height: 120%;
+	position: absolute;
+	top: 291px;
+	left: 46px;
+	font-size: 10pt;
+
+}
+.zto_ec .order-recipient2{
+	width: 330px;
+	height: 59px;
+	position: absolute;
+	top: 192px;
+	left: 49px;
+	font-size: 10pt;
+
+}
+.zto_ec .order-baojia1{
+	width: 166px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 310px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-baojia2{
+	width: 83px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 339px;
+	left: 173px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-baojia3{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 342px;
+	left: 270px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-baojia4{
+	width: 160px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 341px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+
+.zto_ec .order-baojia5{
+	width: 194px;
+	height: 14px;
+	line-height: 12px;
+	position: absolute;
+	top: 340px;
+	left: 177px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-baojia6{
+	width: 414px;
+	height: 22px;
+	line-height: 100%;
+	position: absolute;
+	top: 429px;
+	/*left: 115px;*/
+	font-weight: bold;
+	font-size: 14pt;
+	letter-spacing: 10px;
+	text-align: center;
+	left: 45px;
+}
+.zto_ec .order-baojia7{
+	width: 23px;
+	height: 53px;
+	line-height: 100%;
+	position: absolute;
+	top: 399px;
+	left: 869px;
+	font-size: 12pt;
+}
+.zto_ec .order-baojia8{
+	width: 71px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 372px;
+	left: 296px;
+	font-size: 12pt;
+}
+
+
+.zto_ec .order-huokuan1{
+	width: 162px;
+	height: 30px;
+	font-weight: bold;
+	line-height: 12px;
+	position: absolute;
+	top: 301px;
+	left: 377px;
+	font-size: 14pt;
+
+}
+.zto_ec .order-huokuan2{
+	width: 179px;
+	height: 24px;
+	line-height: 16px;
+	position: absolute;
+	top: 255px;
+	text-align: left;
+	left: 49px;
+	font-size: 10pt;
+
+}
+.zto_ec .order-mdd{
+	width: 47px;
+	height: 20px;
+	position: absolute;
+	top: 189px;
+	text-align: left;
+	left: 430px;
+	font-size: 12pt;
+}
+.zto_ec .order-mdd-price{
+	width: 153px;
+	height: 28px;
+	font-weight: bold;
+	position: absolute;
+	top: 41px;
+	text-align: left;
+	left: 851px;
+	font-size: 20pt;
+}
+.zto_ec .order-yunfei1{
+	width: 95px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 373px;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-yunfei2{
+	width: 114px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 398px;
+	text-align: left;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-jijian{
+	width: 420px;
+	height: 45px;
+	position: absolute;
+	top: 719px;
+	left: 46px;
+	font-size: 10pt;
+
+}
+
+.zto_ec .order-jijian2{
+	width: 324px;
+	height: 95px;
+	line-height: 100%;
+	position: absolute;
+	top: 694px;
+	left: 22px;
+	font-size: 10pt;
+
+}
+
+.zto_ec .order-jijian3{
+	width: 187px;
+	height: 63px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 476px;
+	left: 21px;
+	font-size: 10pt;
+
+}
+.zto_ec .order-jijian4{
+	width: 20px;
+	height: 35px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 650px;
+	left: 18px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-shoujian1{
+	width: 120px;
+	height: 23px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 245px;
+	font-size: 11pt;
+
+}
+.zto_ec .order-shoujian2{
+	width: 145px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 534px;
+	left: 244px;
+	font-size: 11pt;
+
+}
+.zto_ec .order-qianshoulian{
+	width: 20px;
+	height: 37px;
+	position: absolute;
+	top: 290px;
+	left: 18px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-shoujianlian{
+	width: 22px;
+	height: 52px;
+	line-height: 12px;
+	position: absolute;
+	top: 646px;
+	left: 646px;
+	font-size: 11pt;
+
+}
+.zto_ec .order-shoujian3{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 276px;
+	font-size: 11pt;
+
+}
+
+.zto_ec .order-yjd{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-logo {
+	width: 219px;
+	height: 45px;
+	line-height: 12px;
+	position: absolute;
+	top: 514px;
+	left: 17px;
+	font-size: 12pt;
+}
+.zto_ec .order-logo img{
+	width:227px;
+	height:68px;
+}
+.zto_ec .order-shoujian4{
+	width: 388px;
+	height: 47px;
+	line-height: 100%;
+	position: absolute;
+	top: 573px;
+	left: 647px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-shoujian5{
+	width: 434px;
+	height: 94px;
+	line-height: 16px;
+	position: absolute;
+	top: 781px;
+	left: 17px;
+	font-size: 11pt;
+
+}
+.zto_ec .order-shoujian6{
+	width: 24px;
+	height: 39px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 718px;
+	left: 19px;
+	font-size: 12pt;
+
+}
+
+.zto_ec .order-shoujian7{
+	width: 22px;
+	height: 45px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 190px;
+	left: 20px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-dingdan1{
+	width: 397px;
+	height: 43px;
+	/*line-height: 10px;*/
+	position: absolute;
+	top: 657px;
+	left: 49px;
+	font-size: 10pt;
+
+}
+
+.zto_ec .order-tuojiwu{
+	width: 117px;
+	height: 106px;
+	line-height: 100%;
+	position: absolute;
+	top: 700px;
+	left: 393px;
+	text-align: center;
+	font-size: 10pt;
+
+}
+.zto_ec .order-qiandao1{
+	width: 89px;
+	height: 44px;
+	line-height: 12px;
+	position: absolute;
+	top: 431px;
+	left: 425px;
+	font-size: 12pt;
+
+}
+
+.zto_ec .order-qiandao2{
+	width: 114px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 482px;
+	left: 426px;
+	font-size: 12pt;
+
+}
+
+.zto_ec .order-beizhu{
+	width: 54px;
+	height: 21px;
+	line-height: 100%;
+	position: absolute;
+	top: 890px;
+	left: 449px;
+	font-size: 12pt;
+
+}
+.zto_ec .order-heji{
+	width: 80px;
+	line-height: 10px;
+	position: absolute;
+	top: 480px;
+	text-align: center;
+	left: 418px;
+	font-weight: bold;
+	font-size: 14pt;
+	height: 68px;
+
+}
+
+
+.zto_ec .order-send {
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 747px;
+
+}
+.zto_ec .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+
+
+}
+.zto_ec .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 148px;
+	left: 136px;
+}
+
+
+
+
+/*YTO电子面单打印 B*/
+.yto_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 45px;
+	left:500px;
+}
+.yto_ec-box {
+	position: relative;
+	width: 520px;
+	height: 840px;
+	font-size: 15pt;
+	font-family: "黑体";
+	margin-left: 14px;
+	margin-top: 50px;
+}
+
+.yto_ec-box:first-child{
+	margin-top:0px ;
+}
+
+
+.yto_ec{
+	background: url(../../images/express/yto_dzmd.jpg) 0 0 ;
+
+	width: 520px;
+	height: 840px;
+	display: inline-block;
+	background-size:100% 100%;
+}
+.yto_ec .order-no {
+	width: 211px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	text-align:center;
+	top: 60px;
+	left: 238px;
+	font-size: 13pt;
+
+}
+.yto_ec .warehouse{
+	z-index: 999;
+	line-height: 20px;
+	position: absolute;
+	top: 37px;
+	left: 443px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+	padding: 3px;
+	border: 2px solid #000;
+}
+.yto_ec .order-bono {
+	width: 133px;
+	padding-left: 0px;
+	height: 45px;
+	position: absolute;
+	top: 7px;
+	left: 338px;
+	font-size: 14pt;
+
+}
+.yto_ec .order-bono2 {
+	width: 77px;
+	padding-left: 0px;
+	height: 18px;
+	line-height: 16px;
+	position: absolute;
+	top: 54px;
+	left: 374px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-bono3 {
+	width: 232px;
+	padding-left: 0px;
+	position: absolute;
+	top: 499px;
+	left: 222px;
+	font-size: 13pt;
+	height: 38px;
+
+}
+.yto_ec .order-bono4 {
+	width: 231px;
+	padding-left: 0px;
+	position: absolute;
+	top: 535px;
+	left: 232px;
+	font-size: 12pt;
+	letter-spacing: 8px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.yto_ec .order-bono5 {
+	width: 500px;
+	padding-left: 0px;
+	position: absolute;
+	top: 184px;
+	/*left: 94px;*/
+	text-align:center;
+	font-size: 13pt;
+	height: 59px;
+}
+.yto_ec .order-bono6 {
+	width: 231px;
+	padding-left: 5px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 544px;
+	left: 504px;
+	font-size: 12pt;
+}
+
+.yto_ec .order-destination1 {
+	width: 125px;
+	height: 31px;
+	position: absolute;
+	top: 11px;
+	left: 12px;
+	font-weight: bold;
+	font-size: 21pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+.yto_ec .order-destination2 {
+	width: 515px;
+	height: 54px;
+	position: absolute;
+	top: 100px;
+	/*left: 51px;*/
+	font-size: 35pt;
+	white-space:nowrap;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.yto_ec .order-destination3 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 122px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+.yto_ec .order-destination3 span,.yto_ec .order-destination2 span{
+	font-size: 24pt;
+}
+.yto_ec .order-recipient1{
+	width: 416px;
+	height: 60px;
+	line-height: 120%;
+	position: absolute;
+	font-weight: bold;
+	top: 295px;
+	left: 48px;
+	font-size: 16pt;
+
+}
+.yto_ec .order-recipient2{
+	width: 416px;
+	height: 50px;
+	position: absolute;
+	top: 371px;
+	left: 51px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-baojia1{
+	width: 166px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 310px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-baojia2{
+	width: 83px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 339px;
+	left: 173px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-baojia3{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 342px;
+	left: 270px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-baojia4{
+	width: 160px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 341px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-baojia5{
+	width: 194px;
+	height: 14px;
+	line-height: 12px;
+	position: absolute;
+	top: 340px;
+	left: 177px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-baojia6{
+	width: 500px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 244px;
+	/*left: 99px;*/
+	text-align: center;
+	font-weight: bold;
+	font-size: 12pt;
+	letter-spacing: 16px;
+}
+.yto_ec .order-baojia7{
+	width: 23px;
+	height: 53px;
+	line-height: 100%;
+	position: absolute;
+	top: 373px;
+	left: 7px;
+	font-size: 12pt;
+}
+.yto_ec .order-baojia8{
+	width: 71px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 372px;
+	left: 296px;
+	font-size: 12pt;
+}
+
+
+.yto_ec .order-huokuan1{
+	width: 162px;
+	height: 30px;
+	font-weight: bold;
+	line-height: 12px;
+	position: absolute;
+	top: 301px;
+	left: 377px;
+	font-size: 14pt;
+
+}
+.yto_ec .order-huokuan2{
+	width: 416px;
+	height: 25px;
+	font-weight: bold;
+	line-height: 16px;
+	position: absolute;
+	top: 272px;
+	text-align: left;
+	left: 47px;
+	font-size: 16pt;
+
+}
+.yto_ec .order-mdd{
+	width: 68px;
+	height: 28px;
+	font-weight: bold;
+	position: absolute;
+	top: 42px;
+	text-align: left;
+	left: 15px;
+	font-size: 18pt;
+}
+.yto_ec .order-mdd-price{
+	width: 153px;
+	height: 28px;
+	font-weight: bold;
+	position: absolute;
+	top: 42px;
+	text-align: left;
+	left: 88px;
+	font-size: 20pt;
+}
+.yto_ec .order-yunfei1{
+	width: 95px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 373px;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-yunfei2{
+	width: 114px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 398px;
+	text-align: left;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-jijian{
+	width: 434px;
+	height: 31px;
+	line-height: 100%;
+	position: absolute;
+	top: 653px;
+	left: 46px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-jijian2{
+	width: 324px;
+	height: 95px;
+	line-height: 100%;
+	position: absolute;
+	top: 699px;
+	left: 45px;
+	font-size: 10pt;
+
+}
+
+.yto_ec .order-jijian3{
+	width: 114px;
+	height: 32px;
+	line-height: 100%;
+	position: absolute;
+	top: 438px;
+	left: 6px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-jijian4{
+	width: 26px;
+	height: 52px;
+	line-height: 100%;
+	position: absolute;
+	top: 567px;
+	left: 9px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-shoujian-date{
+	width: 180px;
+	height: 32px;
+	line-height: 100%;
+	position: absolute;
+	top: 400px;
+	left: 251px;
+	font-size: 12pt;
+}
+.yto_ec .order-shoujian1{
+	width: 69px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 438px;
+	left: 236px;
+	font-size: 11pt;
+
+}
+.yto_ec .order-shoujian2{
+	width: 145px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 462px;
+	left: 284px;
+	font-size: 11pt;
+
+}
+.yto_ec .order-qianshoulian{
+	width: 20px;
+	height: 57px;
+	line-height: 12px;
+	position: absolute;
+	top: 341px;
+	left: 495px;
+	font-size: 11pt;
+
+}
+.yto_ec .order-shoujianlian{
+	width: 22px;
+	height: 52px;
+	line-height: 12px;
+	position: absolute;
+	top: 615px;
+	left: 492px;
+	font-size: 11pt;
+
+}
+.yto_ec .order-shoujian3{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 276px;
+	font-size: 11pt;
+
+}
+
+.yto_ec .order-yjd{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-logo {
+	width: 219px;
+	height: 45px;
+	line-height: 12px;
+	position: absolute;
+	top: 514px;
+	left: 17px;
+	font-size: 12pt;
+}
+.yto_ec .order-logo img{
+	width:227px;
+	height:68px;
+}
+.yto_ec .order-shoujian4{
+	width: 416px;
+	height: 47px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 570px;
+	left: 47px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-shoujian5{
+	width: 290px;
+	height: 13px;
+	line-height: 10px;
+	position: absolute;
+	top: 798px;
+	left: 6px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-shoujian6{
+	width: 27px;
+	height: 58px;
+	line-height: 100%;
+	position: absolute;
+	top: 633px;
+	left: 8px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-shoujian7{
+	width: 30px;
+	height: 79px;
+	line-height: 100%;
+	position: absolute;
+	top: 277px;
+	left: 3px;
+	font-size: 20pt;
+
+}
+.yto_ec .order-dingdan1{
+	width: 300px;
+	height: 20px;
+	line-height: 10px;
+	position: absolute;
+	top: 635px;
+	left: 46px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-tuojiwu{
+	width: 117px;
+	height: 106px;
+	line-height: 100%;
+	position: absolute;
+	top: 700px;
+	left: 393px;
+	text-align: center;
+	font-size: 10pt;
+
+}
+.yto_ec .order-qiandao1{
+	width: 89px;
+	height: 44px;
+	line-height: 12px;
+	position: absolute;
+	top: 431px;
+	left: 425px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-qiandao2{
+	width: 114px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 482px;
+	left: 426px;
+	font-size: 12pt;
+
+}
+
+.yto_ec .order-beizhu{
+	width: 93px;
+	height: 21px;
+	line-height: 100%;
+	position: absolute;
+	top: 795px;
+	left: 296px;
+	font-size: 12pt;
+
+}
+.yto_ec .order-heji{
+	width: 20px;
+	height: 65px;
+	line-height: 120%;
+	position: absolute;
+	top: 703px;
+	left: 9px;
+	font-size: 12pt;
+
+}
+
+
+.yto_ec .order-send {
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 747px;
+
+}
+.yto_ec .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+
+
+}
+.yto_ec .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 148px;
+	left: 136px;
+}
+
+
+
+
+/*SF电子面单打印 B*/
+.sf_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 45px;
+	left:500px;
+}
+.sf_ec-box {
+	position: relative;
+	width: 560px;
+	height: 840px;
+	font-size: 15pt;
+	font-family: "黑体";
+	margin-left: 14px;
+	margin-top: 50px;
+}
+
+.sf_ec-box:first-child{
+	margin-top:0px ;
+}
+
+
+.sf_ec{
+	background: url(../../images/express/sf_dzmd.png) 0 0 ;
+	display: inline-block;
+	background-size:100% 100%;
+}
+.sf_ec .order-no {
+	width: 211px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	text-align:center;
+	top: 60px;
+	left: 238px;
+	font-size: 13pt;
+
+}
+.sf_ec .warehouse{
+	z-index: 999;
+	line-height: 20px;
+	position: absolute;
+	top: 37px;
+	left: 443px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+	padding: 3px;
+	border: 2px solid #000;
+}
+.sf_ec .order-bono {
+	width: 326px;
+	padding-left: 46px;
+	height: 50px;
+	position: absolute;
+	top: 93px;
+	left: 20px;
+	font-size: 14pt;
+
+}
+.sf_ec .order-bono2 {
+	width: 187px;
+	padding-left: 15px;
+	height: 27px;
+	line-height: 16px;
+	position: absolute;
+	top: 160px;
+	left: 89px;
+	font-size: 16pt;
+
+}
+.sf_ec .order-bono3 {
+	width: 131px;
+	padding-left: 23px;
+	height: 32px;
+	position: absolute;
+	top: 517px;
+	left: 259px;
+	font-size: 13pt;
+
+}
+.sf_ec .order-bono4 {
+	width: 184px;
+	padding-left: 5px;
+	height: 19px;
+	line-height: 14px;
+	position: absolute;
+	top: 576px;
+	left: 314px;
+	font-size: 16pt;
+
+}
+
+
+
+.sf_ec .order-destination1 {
+	width: 115px;
+	height: 29px;
+	line-height: 20px;
+	position: absolute;
+	top: 94px;
+	left: 408px;
+	font-weight: bold;
+	font-size: 14pt;
+
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+
+
+.sf_ec .order-destination2 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 154px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+/*.sf_ec .order-destination3 {*/
+/*width: 166px;*/
+/*height: 32px;*/
+/*line-height: 24px;*/
+/*position: absolute;*/
+/*top: 122px;*/
+/*left: 379px;*/
+/*font-size: 14pt;*/
+/*text-align:left;*/
+/*vertical-align:middle;*/
+
+/*}*/
+
+.sf_ec .order-destination3 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 140px;
+	left: 380px;
+	font-size: 50pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+.sf_ec .order-destination3 span,.sf_ec .order-destination2 span{
+	font-size: 20pt;
+}
+.sf_ec .order-recipient1{
+	width: 476px;
+	height: 18px;
+	line-height: 16px;
+	position: absolute;
+	font-weight: bold;
+	top: 210px;
+	left: 64px;
+	font-size: 14pt;
+
+}
+.sf_ec .order-recipient2{
+	width: 477px;
+	height: 51px;
+	position: absolute;
+	top: 234px;
+	left: 64px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-baojia1{
+	width: 166px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 310px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-baojia2{
+	width: 83px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 308px;
+	left: 185px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-baojia3{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 309px;
+	left: 272px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-baojia4{
+	width: 160px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 341px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-baojia5{
+	width: 194px;
+	height: 14px;
+	line-height: 12px;
+	position: absolute;
+	top: 340px;
+	left: 177px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-baojia6{
+	width: 138px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 370px;
+	left: 17px;
+	font-size: 12pt;
+}
+.sf_ec .order-baojia7{
+	width: 112px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 371px;
+	left: 177px;
+	font-size: 12pt;
+}
+.sf_ec .order-baojia8{
+	width: 71px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 372px;
+	left: 296px;
+	font-size: 12pt;
+}
+
+
+.sf_ec .order-huokuan1{
+	width: 162px;
+	height: 30px;
+	font-weight: bold;
+	line-height: 12px;
+	position: absolute;
+	top: 301px;
+	left: 377px;
+	font-size: 14pt;
+
+}
+.sf_ec .order-huokuan2{
+	width: 122px;
+	height: 28px;
+	font-weight: bold;
+	line-height: 16px;
+	position: absolute;
+	top: 335px;
+	text-align:left;
+	left: 423px;
+	font-size: 14pt;
+
+}
+.sf_ec .order-mdd{
+	width: 63px;
+	height: 19px;
+	font-weight: bold;
+	line-height: 16px;
+	position: absolute;
+	top: 122px;
+	text-align: left;
+	left: 379px;
+	font-size: 14pt;
+
+}
+.sf_ec .order-yunfei1{
+	width: 95px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 373px;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-yunfei2{
+	width: 114px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 398px;
+	text-align: left;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-jijian{
+	width: 213px;
+	height: 52px;
+	line-height: 100%;
+	position: absolute;
+	top: 433px;
+	left: 43px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-jijian2{
+	width: 199px;
+	height: 60px;
+	line-height: 100%;
+	position: absolute;
+	top: 605px;
+	left: 41px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-jijian3{
+	width: 27px;
+	height: 42px;
+	line-height: 100%;
+	position: absolute;
+	top: 433px;
+	left: 20px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-jijian4{
+	width: 26px;
+	height: 42px;
+	line-height: 100%;
+	position: absolute;
+	top: 607px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-shoujian1{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 430px;
+	left: 276px;
+	font-size: 11pt;
+
+}
+.sf_ec .order-shoujian2{
+	width: 145px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 454px;
+	left: 275px;
+	font-size: 11pt;
+
+}
+.sf_ec .order-shoujian3{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 276px;
+	font-size: 11pt;
+
+}
+
+.sf_ec .order-yjd{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-logo {
+	width: 219px;
+	height: 45px;
+	line-height: 12px;
+	position: absolute;
+	top: 514px;
+	left: 17px;
+	font-size: 12pt;
+}
+.sf_ec .order-logo img{
+	width:227px;
+	height:68px;
+}
+.sf_ec .order-shoujian4{
+	width: 257px;
+	height: 29px;
+	line-height: 100%;
+	position: absolute;
+	top: 609px;
+	left: 285px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-shoujian5{
+	width: 220px;
+	height: 13px;
+	line-height: 10px;
+	position: absolute;
+	top: 659px;
+	left: 257px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-shoujian6{
+	width: 27px;
+	height: 34px;
+	line-height: 100%;
+	position: absolute;
+	top: 607px;
+	left: 256px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-shoujian7{
+	width: 37px;
+	height: 65px;
+	line-height: 100%;
+	position: absolute;
+	top: 201px;
+	left: 19px;
+	font-size: 20pt;
+
+}
+.sf_ec .order-dingdan1{
+	width: 284px;
+	height: 14px;
+	line-height: 10px;
+	position: absolute;
+	top: 685px;
+	left: 257px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-tuojiwu{
+	width: 523px;
+	height: 124px;
+	line-height: 100%;
+	position: absolute;
+	top: 707px;
+	left: 18px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-qiandao1{
+	width: 89px;
+	height: 44px;
+	line-height: 12px;
+	position: absolute;
+	top: 431px;
+	left: 425px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-qiandao2{
+	width: 114px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 482px;
+	left: 426px;
+	font-size: 12pt;
+
+}
+
+.sf_ec .order-beizhu{
+	width: 436px;
+	height: 50px;
+	line-height: 100%;
+	position: absolute;
+	top: 773px;
+	left: 15px;
+	font-size: 12pt;
+
+}
+.sf_ec .order-heji{
+	width: 85px;
+	height: 48px;
+	line-height: 12px;
+	position: absolute;
+	top: 772px;
+	left: 470px;
+	font-size: 12pt;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.sf_ec .order-send {
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 747px;
+
+}
+.sf_ec .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+
+
+}
+.sf_ec .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 148px;
+	left: 136px;
+}
+
+
+.kd-box {
+	position: relative;
+	width: 1142px;
+	height: 550px;
+	font-size: 15pt;
+	font-family: "黑体";
+	font-weight: bold;
+	margin-left:-75px;
+	margin-top: 10px;
+}
+.sf-kd {
+	background: url(../../images/express/sf.jpg) red no-repeat 0px -21px;
+}
+.sf-kd .order-no {
+	width: 241px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 57px;
+	left: 238px;
+	font-size: 13pt;
+	background: red;
+}
+/*顺丰专用的start*/
+.shoujianyuan,.order-send-no,.monthly-no,.product-serivce{display:none;}
+.sf-kd .shoujianyuan{
+	width: 241px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 37px;
+	left: 762px;
+	font-size: 18pt;
+	background: red;
+	display:inline;
+}
+.sf-kd .order-send-no{
+	display:inline;
+	width: 82px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 88px;
+	left: 764px;
+	font-size: 18pt;
+	background: red;
+}
+.sf-kd .monthly-no{
+	display:inline;
+	width: 160px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 521px;
+	left: 606px;
+	font-size: 18pt;
+	background: red;
+}
+.sf-kd .product-serivce{
+	display:inline;
+	width: 107px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 125px;
+	left: 763px;
+	font-size: 13pt;
+	background: red;
+}
+/*顺丰专用的end*/
+.sf-kd .order-bono {
+	width: 243px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 238px;
+	font-size: 13pt;
+	background: red;
+}
+.sf-kd .order-send {
+	display:none;
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 84px;
+	left: 739px;
+	background: red;
+}
+.sf-kd .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+	background: red;
+
+}
+.sf-kd .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 136px;
+	left: 179px;
+	background: red;
+}
+.sf-kd .shipper-contact {
+	width: 163px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 136px;
+	left: 433px;
+	background: red;
+}
+.sf-kd .shipper-phone {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 203px;
+	left: 160px;
+	background: red;
+}
+.sf-kd .shipper-address {
+	width: 381px;
+	height: 33px;
+	line-height: 28px;
+	position: absolute;
+	top: 170px;
+	left: 160px;
+	background: red;
+}
+.sf-kd .receiver-company {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 241px;
+	left: 159px;
+	background: red;
+}
+.sf-kd .receiver-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 240px;
+	left: 414px;
+	background: red;
+}
+.sf-kd .receiver-mobile {
+	width: 162px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 337px;
+	left: 163px;
+	background: red;
+}
+.sf-kd .receiver-telno {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 351px;
+	left: 134px;
+	background: red;
+}
+.sf-kd .receiver-address {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 277px;
+	left: 159px;
+	background: red;
+}
+.sf-kd .ordercontent {
+	width: 333px;
+	height: 60px;
+	line-height: 20px;
+	position: absolute;
+	top: 387px;
+	left: 118px;
+	font-size: 11pt;
+	background: red;
+}
+.sf-kd .ordernum {
+	width: 40px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 528px;
+	left: 121px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+.sf-kd .shipper-name {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 465px;
+	left: 610px;
+	background: red;
+}
+.sf-kd .shipper-name {
+	width: 122px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 491px;
+	left: 150px;
+	font-size: 14pt;
+	background: red;
+}
+.sf-kd .shipper-time {
+	width: 208px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 521px;
+	left: 131px;
+	font-size: 12pt;
+	background: red;
+}
+.sf-kd .warehouse{
+	z-index: 999;
+	padding: 3px;
+	border: 2px solid #000;
+	line-height: 20px;
+	position: absolute;
+	top: 34px;
+	left: 902px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+}
+/*EMS快递单打印*/
+.ems-weightnum,.ems-sjry,.ems-beizhu{display:none}/*EMS经济快递专用*/
+.ems-kd {
+	background: url(../../images/express/ems.jpg) red no-repeat 0px -21px;
+}
+.ems_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 40px;
+	left: 615px;
+}
+.ems-kd .ems-sjry {  /*EMS经济快递收寄人员*/
+	width: 118px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 486px;
+	left: 563px;
+	font-size: 14pt;
+	display:block;
+	background: red;
+}
+.ems-kd .ems-beizhu { /*EMS经济快递已验视*/
+	width: 131px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 459px;
+	left: 863px;display:block;
+	font-size: 14pt;
+	background: red;
+}
+.ems-kd .ems-weightnum {  /*EMS经济快递称重*/
+	width: 40px;
+	height: 37px;
+	line-height: 35px;
+	position: absolute;
+	display:block;
+	top: 414px;
+	left: 236px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+.ems-kd .order-no {
+	width: 209px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 316px;
+	font-size: 13pt;
+	background: red;
+}
+.ems-kd .order-bono{
+	width: 203px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 120px;
+	font-size: 13pt;
+	background: red;
+}
+.ems-kd .order-send {
+
+	display:none;
+}
+.ems-kd .order-receivercity {
+	width: 101px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 372px;
+	left: 162px;
+	background: red;
+}
+.ems-kd .shipper-company {
+	width: 260px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 133px;
+	left: 160px;
+	background: red;
+}
+.ems-kd .shipper-contact {
+	width: 166px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 101px;
+	left: 159px;
+	background: red;
+}
+.ems-kd .shipper-phone {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 100px;
+	left: 355px;
+	background: red;
+}
+.ems-kd .shipper-address {
+	width: 440px;
+	height: 59px;
+	line-height: 28px;
+	position: absolute;
+	top: 163px;
+	left: 143px;
+	background: red;
+}
+.ems-kd .receiver-company {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 275px;
+	left: 165px;
+	background: red;
+}
+.ems-kd .receiver-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 243px;
+	left: 154px;
+	background: red;
+}
+.ems-kd .receiver-mobile {
+	width: 162px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 242px;
+	left: 358px;
+	background: red;
+}
+.ems-kd .receiver-telno {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 241px;
+	left: 357px;
+	background: red;
+
+}
+.ems-kd .receiver-address {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 307px;
+	left: 143px;
+	background: red;
+}
+.ems-kd .ordercontent {
+	width: 403px;
+	height: 60px;
+	line-height: 18px;
+	position: absolute;
+	top: 455px;
+	left: 154px;
+	font-size: 11pt;
+	background: red;
+}
+.ems-kd .ordernum {
+	width: 40px;
+	height: 37px;
+	line-height: 35px;
+	position: absolute;
+	top: 430px;
+	left: 117px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+.ems-kd .shipper-name {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 465px;
+	left: 610px;
+	background: red;
+}
+.ems-kd .shipper-name {
+	width: 131px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 211px;
+	left: 850px;
+	font-size: 14pt;
+	background: red;
+}
+.ems-kd .shipper-time {
+	width: 208px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 244px;
+	left: 810px;
+	font-size: 12pt;
+	background: red;
+}
+.ems-kd .warehouse{
+	z-index: 999;
+	padding: 3px;
+	border: 2px solid #000;
+	line-height: 20px;
+	position: absolute;
+	top: 96px;
+	left: 902px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+}
+
+/*EYB EMS经济快递单打印*/
+.eyb-kd {
+	background: url(../../images/express/ems.jpg) red no-repeat 0px -21px;
+}
+.eyb_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 40px;
+	left: 615px;
+}
+.eyb-kd .order-no {
+	width: 209px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 316px;
+	font-size: 13pt;
+	background: red;
+}
+.eyb-kd .order-bono{
+	width: 203px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 120px;
+	font-size: 13pt;
+	background: red;
+}
+.eyb-kd .order-send {
+
+	display:none;
+}
+.eyb-kd .order-receivercity {
+	width: 101px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 372px;
+	left: 162px;
+	background: red;
+}
+.eyb-kd .shipper-company {
+	width: 260px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 133px;
+	left: 160px;
+	background: red;
+}
+.eyb-kd .shipper-contact {
+	width: 166px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 101px;
+	left: 159px;
+	background: red;
+}
+.eyb-kd .shipper-phone {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 100px;
+	left: 355px;
+	background: red;
+}
+.eyb-kd .shipper-address {
+	width: 440px;
+	height: 59px;
+	line-height: 28px;
+	position: absolute;
+	top: 163px;
+	left: 143px;
+	background: red;
+}
+.eyb-kd .receiver-company {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 275px;
+	left: 165px;
+	background: red;
+}
+.eyb-kd .receiver-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 243px;
+	left: 154px;
+	background: red;
+}
+.eyb-kd .receiver-mobile {
+	width: 162px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 242px;
+	left: 358px;
+	background: red;
+}
+.eyb-kd .receiver-telno {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 241px;
+	left: 357px;
+	background: red;
+
+}
+.eyb-kd .receiver-address {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 307px;
+	left: 143px;
+	background: red;
+}
+.eyb-kd .ordercontent {
+	width: 403px;
+	height: 60px;
+	line-height: 18px;
+	position: absolute;
+	top: 455px;
+	left: 154px;
+	font-size: 11pt;
+	background: red;
+}
+.eyb-kd .ordernum {
+	width: 40px;
+	height: 37px;
+	line-height: 35px;
+	position: absolute;
+	top: 430px;
+	left: 117px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+.eyb-kd .shipper-name {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 465px;
+	left: 610px;
+	background: red;
+}
+.eyb-kd .shipper-name {
+	width: 131px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 211px;
+	left: 850px;
+	font-size: 14pt;
+	background: red;
+}
+.eyb-kd .shipper-time {
+	width: 208px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 244px;
+	left: 810px;
+	font-size: 12pt;
+	background: red;
+}
+.eyb-kd .warehouse{
+	z-index: 999;
+	padding: 3px;
+	border: 2px solid #000;
+	line-height: 20px;
+	position: absolute;
+	top: 96px;
+	left: 902px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+}
+
+/*圆通快递打印*/
+.yto-kd {
+	background: url(../../images/express/yt.jpg) red no-repeat 0px -21px;
+}
+.yto_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 40px;
+	left: 645px;
+}
+.yto-kd .order-no {
+	width: 235px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 66px;
+	left: 323px;
+	font-size: 13pt;
+	background: red;
+}
+.yto-kd .order-bono{
+	width: 212px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 67px;
+	left: 120px;
+	font-size: 13pt;
+	background: red;
+}
+.yto-kd .order-send {
+	width: 101px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 109px;
+	left: 377px;
+	background: red;
+}
+.yto-kd .order-receivercity {
+
+	display:none;
+}
+.yto-kd .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 141px;
+	left: 171px;
+	background: red;
+}
+.yto-kd .shipper-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 112px;
+	left: 184px;
+	background: red;
+}
+.yto-kd .shipper-phone {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 256px;
+	left: 230px;
+	background: red;
+}
+.yto-kd .shipper-address {
+	width: 382px;
+	height: 57px;
+	line-height: 28px;
+	position: absolute;
+	top: 196px;
+	left: 114px;
+	background: red;
+}
+.yto-kd .receiver-company {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 143px;
+	left: 617px;
+	background: red;
+}
+.yto-kd .receiver-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 111px;
+	left: 629px;
+	background: red;
+}
+.yto-kd .receiver-mobile {
+	width: 162px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 251px;
+	left: 678px;
+	background: red;
+}
+.yto-kd .receiver-telno {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 249px;
+	left: 674px;
+	background: red;
+}
+.yto-kd .receiver-address {
+	width: 365px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 180px;
+	left: 607px;
+	background: red;
+}
+.yto-kd .ordercontent {
+	width: 329px;
+	height: 60px;
+	line-height: 18px;
+	position: absolute;
+	top: 351px;
+	left: 106px;
+	font-size: 11pt;
+	background: red;
+}
+.yto-kd .ordernum {
+	width: 40px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 316px;
+	left: 355px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+.yto-kd .shipper-name {
+	width: 388px;
+	height: 60px;
+	line-height: 28px;
+	position: absolute;
+	top: 465px;
+	left: 610px;
+	background: red;
+}
+.yto-kd .shipper-name {
+	width: 118px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 449px;
+	left: 334px;
+	font-size: 14pt;
+	background: red;
+}
+.yto-kd .shipper-time {
+	width: 208px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 473px;
+	left: 339px;
+	font-size: 12pt;
+	background: red;
+}
+
+.yto-kd .warehouse{
+	z-index: 999;
+	padding: 3px;
+	border: 2px solid #000;
+	line-height: 20px;
+	position: absolute;
+	top: 33px;
+	left: 460px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+}
+
+/*韵达快递打印*/
+
+
+/*韵达电子面单打印 B*/
+.yunda_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 45px;
+	left:500px;
+}
+.yunda_ec-box {
+	position: relative;
+	width: 520px;
+	height: 840px;
+	font-size: 15pt;
+	font-family: "黑体";
+	margin-left: 14px;
+	margin-top: 50px;
+}
+
+.yunda_ec-box:first-child{
+	margin-top:0px ;
+}
+
+
+.yunda_ec{
+	background: url(../../images/express/yunda-ec.jpg) 0 0 ;
+	width: 520px;
+	height: 840px;
+	display: inline-block;
+	background-size:100% 100%;
+}
+.yunda_ec .order-no {
+	width: 211px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	text-align:center;
+	top: 60px;
+	left: 238px;
+	font-size: 13pt;
+
+}
+.yunda_ec .warehouse{
+	z-index: 999;
+	line-height: 20px;
+	position: absolute;
+	top: 37px;
+	left: 443px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+	padding: 3px;
+	border: 2px solid #000;
+}
+.yunda_ec .order-bono {
+	width: 149px;
+	padding-left: 0px;
+	height: 21px;
+	position: absolute;
+	top: 131px;
+	left: 350px;
+	overflow: hidden;
+	font-size: 14pt;
+}
+
+.yunda_ec .order-bono2 {
+	width: 147px;
+	padding-left: 0px;
+	height: 18px;
+	line-height: 16px;
+	position: absolute;
+	top: 151px;
+	left: 332px;
+	font-size: 12pt;
+	text-align: center;
+
+}
+.yunda_ec .order-bono3 {
+	width: 232px;
+	padding-left: 0px;
+	position: absolute;
+	top: 641px;
+	left: 207px;
+	font-size: 13pt;
+	height: 43px;
+
+}
+.yunda_ec .order-bono4 {
+	width: 183px;
+	padding-left: 0px;
+	position: absolute;
+	top: 646px;
+	left: 9px;
+	font-size: 12pt;
+	letter-spacing: 8px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.yunda_ec .order-bono5 {
+	width: 309px;
+	padding-left: 0px;
+	position: absolute;
+	top: 271px;
+	/*left: 94px;*/
+	text-align: center;
+	font-size: 13pt;
+	height: 59px;
+	left: 109px;
+}
+.yunda_ec .order-bono6 {
+	width: 231px;
+	padding-left: 5px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 544px;
+	left: 504px;
+	font-size: 12pt;
+}
+
+.yunda_ec .order-destination1 {
+	width: 125px;
+	height: 31px;
+	position: absolute;
+	top: 40px;
+	left: 694px;
+	font-weight: bold;
+	font-size: 21pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+.yunda_ec .order-destination2 {
+	width: 179px;
+	height: 51px;
+	position: absolute;
+	top: 18px;
+	/*left: 51px;*/
+	font-size: 12pt;
+	text-align: left;
+	vertical-align: middle;
+	left: 329px;
+}
+.yunda_ec .order-destination2 span{
+
+	font-size: 12px !important;
+
+}
+.yunda_ec .order-destination3 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 122px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+.yunda_ec .order-destination3 span,.yunda_ec .order-destination2 span{
+	font-size: 24pt;
+}
+.yunda_ec .order-recipient1{
+	width: 84px;
+	height: 92px;
+	line-height: 120%;
+	position: absolute;
+	font-weight: bold;
+	top: 175px;
+	left: 22px;
+	font-size: 16pt;
+}
+.yunda_ec .order-recipient1 img{
+	width:100%;
+	height:auto;
+}
+.yunda_ec .order-recipient2{
+	width: 488px;
+	height: 22px;
+	position: absolute;
+	top: 340px;
+	left: 10px;
+	font-size: 16pt;
+
+}
+.yunda_ec .order-baojia1{
+	width: 166px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 310px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-baojia2{
+	width: 83px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 339px;
+	left: 173px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-baojia3{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 342px;
+	left: 270px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-baojia4{
+	width: 160px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 341px;
+	left: 16px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-baojia5{
+	width: 194px;
+	height: 14px;
+	line-height: 12px;
+	position: absolute;
+	top: 340px;
+	left: 177px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-baojia6{
+	width: 500px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 244px;
+	/*left: 99px;*/
+	text-align: center;
+	font-weight: bold;
+	font-size: 12pt;
+	letter-spacing: 16px;
+}
+.yunda_ec .order-baojia7{
+	width: 41px;
+	height: 42px;
+	line-height: 100%;
+	position: absolute;
+	top: 72px;
+	left: 13px;
+	font-size: 12pt;
+}
+.yunda_ec .order-baojia8{
+	width: 71px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 372px;
+	left: 296px;
+	font-size: 12pt;
+}
+
+
+.yunda_ec .order-huokuan1{
+	width: 162px;
+	height: 30px;
+	font-weight: bold;
+	line-height: 12px;
+	position: absolute;
+	top: 301px;
+	left: 377px;
+	font-size: 14pt;
+
+}
+.yunda_ec .order-huokuan2{
+	width: 416px;
+	height: 25px;
+	font-weight: bold;
+	line-height: 16px;
+	position: absolute;
+	top: 166px;
+	text-align: left;
+	left: 643px;
+	font-size: 16pt;
+
+}
+.yunda_ec .order-mdd{
+	width: 291px;
+	height: 28px;
+	font-weight: bold;
+	position: absolute;
+	top: 141px;
+	text-align: left;
+	left: 12px;
+	font-size: 16pt;
+}
+.yunda_ec .order-mdd-price{
+	/*width: 218px;*/
+	height: 88px;
+	font-weight: bold;
+	position: absolute;
+	top: 172px;
+	text-align: center;
+	left: 226px;
+	font-size: 34pt;
+	line-height: 100%;
+}
+.yunda_ec .order-yunfei1{
+	width: 95px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 373px;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-yunfei2{
+	width: 114px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 398px;
+	text-align: left;
+	left: 378px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-jijian{
+	width: 434px;
+	height: 31px;
+	line-height: 100%;
+	position: absolute;
+	top: 657px;
+	left: 17px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-jijian2{
+	width: 295px;
+	height: 143px;
+	line-height: 100%;
+	position: absolute;
+	top: 690px;
+	left: 16px;
+	font-size: 10pt;
+
+}
+
+.yunda_ec .order-jijian3{
+	width: 229px;
+	height: 26px;
+	line-height: 100%;
+	position: absolute;
+	top: 382px;
+	left: 8px;
+	font-size: 11pt;
+}
+.yunda_ec .order-jijian4{
+	width: 26px;
+	height: 52px;
+	line-height: 100%;
+	position: absolute;
+	top: 567px;
+	left: 9px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-shoujian1{
+	width: 69px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 377px;
+	left: 219px;
+	font-size: 11pt;
+
+}
+.yunda_ec .order-shoujian2{
+	width: 209px;
+	height: 31px;
+	line-height: 17px;
+	position: absolute;
+
+	top: 382px;
+	left: 283px;
+	font-size: 11pt;
+}
+.yunda_ec .order-qianshoulian{
+	width: 439px;
+	height: 74px;
+	line-height: 14px;
+	position: absolute;
+	top: 71px;
+	font-weight: bold;
+	left: 57px;
+	font-size: 11pt;
+}
+.yunda_ec .order-shoujianlian{
+	width: 22px;
+	height: 52px;
+	line-height: 12px;
+	position: absolute;
+	top: 669px;
+	left: 681px;
+	font-size: 11pt;
+
+}
+.yunda_ec .order-shoujian3{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 276px;
+	font-size: 11pt;
+
+}
+
+.yunda_ec .order-yjd{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-logo {
+	width: 219px;
+	height: 45px;
+	line-height: 12px;
+	position: absolute;
+	top: 514px;
+	left: 17px;
+	font-size: 12pt;
+}
+.yunda_ec .order-logo img{
+	width:227px;
+	height:68px;
+}
+.yunda_ec .order-shoujian4{
+	width: 325px;
+	height: 123px;
+	/*line-height: 100%;*/
+	position: absolute;
+	top: 431px;
+	left: 8px;
+	font-size: 12pt;
+
+}
+.yunda_ec .order-shoujian5{
+	width: 311px;
+	height: 63px;
+	line-height: 12px;
+	position: absolute;
+	top: 8px;
+	left: 14px;
+	font-size: 10pt;
+
+}
+.yunda_ec .order-shoujian6{
+	width: 27px;
+	height: 58px;
+	line-height: 100%;
+	position: absolute;
+	top: 633px;
+	left: 8px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-shoujian7{
+	width: 30px;
+	height: 79px;
+	line-height: 100%;
+	position: absolute;
+	top: 277px;
+	left: 3px;
+	font-size: 20pt;
+
+}
+.yunda_ec .order-dingdan1{
+	width: 300px;
+	height: 20px;
+	line-height: 10px;
+	position: absolute;
+	top: 635px;
+	left: 46px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-tuojiwu{
+	width: 177px;
+	height: 106px;
+	line-height: 100%;
+	position: absolute;
+	top: 699px;
+	left: 332px;
+	text-align: left;
+	font-size: 10pt;
+
+}
+.yunda_ec .order-qiandao1{
+	width: 89px;
+	height: 44px;
+	line-height: 12px;
+	position: absolute;
+	top: 431px;
+	left: 425px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-qiandao2{
+	width: 114px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 482px;
+	left: 426px;
+	font-size: 12pt;
+
+}
+
+.yunda_ec .order-beizhu{
+	width: 82px;
+	height: 26px;
+	line-height: 26px;
+	border: 2px solid;
+	position: absolute;
+	top: 573px;
+	text-align: center;
+	left: 398px;
+	font-size: 14pt;
+}
+.yunda_ec .order-heji{
+	width: 20px;
+	height: 65px;
+	line-height: 120%;
+	position: absolute;
+	top: 703px;
+	left: 9px;
+	font-size: 12pt;
+
+}
+
+
+.yunda_ec .order-send {
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 747px;
+
+}
+.yunda_ec .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+
+
+}
+.yunda_ec .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 148px;
+	left: 136px;
+}
+.yunda_ec .order-guanwang {
+	width: 483px;
+	height: 20px;
+	line-height: 100%;
+	position: absolute;
+	top: 819px;
+	left: 16px;
+	font-size: 9pt;
+}
+
+
+/*中通快递打印*/
+.zto-kd {
+	background: url(../../images/express/zto.jpg) red no-repeat 0px -21px;
+}
+.zto_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 34px;
+	left: 791px;
+}
+.zto-kd .order-no {
+	width: 235px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 80px;
+	left: 278px;
+	font-size: 13pt;
+	background: red;
+}
+.zto-kd .order-bono{
+	width: 212px;
+	height: 29px;
+	line-height: 25px;
+	position: absolute;
+	top: 79px;
+	left: 59px;
+	font-size: 13pt;
+	background: red;
+}
+.zto-kd .order-send {
+	width: 134px;
+	height: 38px;
+	line-height: 37px;
+	position: absolute;
+	top: 114px;
+	left: 364px;
+	background: red;
+}
+.zto-kd .order-receivercity {
+	width: 156px;
+	height: 38px;
+	line-height: 37px;
+	position: absolute;
+	top: 119px;
+	left: 826px;
+	background: red;
+}
+.zto-kd .shipper-company {
+	width: 255px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 224px;
+	left: 164px;
+	background: red;
+}
+.zto-kd .shipper-contact {
+	width: 176px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 114px;
+	left: 172px;
+	background: red;
+}
+.zto-kd .shipper-phone {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 261px;
+	left: 164px;
+	background: red;
+}
+.zto-kd .shipper-address {
+	width: 364px;
+	height: 33px;
+	line-height: 28px;
+	position: absolute;
+	top: 160px;
+	left: 171px;
+	background: red;
+}
+.zto-kd .receiver-company {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 226px;
+	left: 624px;
+	background: red;
+}
+.zto-kd .receiver-contact {
+	width: 170px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 121px;
+	left: 623px;
+	background: red;
+}
+.zto-kd .receiver-mobile {
+	width: 240px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 263px;
+	left: 624px;
+	background: red;
+}
+.zto-kd .receiver-telno {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 264px;
+	left: 622px;
+	background: red;
+}
+.zto-kd .receiver-address {
+	width: 357px;
+	height: 63px;
+	line-height: 28px;
+	position: absolute;
+	top: 157px;
+	left: 623px;
+	background: red;
+}
+.zto-kd .ordercontent {
+	width: 458px;
+	height: 48px;
+	line-height: 18px;
+	position: absolute;
+	top: 294px;
+	left: 78px;
+	font-size: 11pt;
+	background: red;
+}
+.zto-kd .ordernum {
+	width: 40px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 344px;
+	left: 907px;
+	font-size: 20pt;
+	font-weight: bold;
+	background: red;
+	text-align: center;
+}
+
+.zto-kd .shipper-name {
+	width: 118px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 477px;
+	left: 152px;
+	font-size: 14pt;
+	background: red;
+
+}
+.zto-kd .shipper-time {
+	width: 208px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 481px;
+	left: 333px;
+	font-size: 12pt;
+	background: red;
+
+}
+.yd-kd .warehouse{
+	z-index: 999;
+	padding: 3px;
+	border: 2px solid #000;
+	line-height: 20px;
+	position: absolute;
+	top: 79px;
+	left: 513px;
+	font-weight: bold;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+}
+
+/*JD电子面单打印 B*/
+.jd_fail {
+	width: 150px;
+	height: 50px;
+	position:relative;
+	font-size: 20pt;
+	color:#F00;
+	z-index: 999;
+	top: 51px;
+	left: 100px;
+}
+.jd_ec-box {
+	position: relative;
+	width: 560px;
+	height: 600px;
+	font-size: 15pt;
+	font-family: "黑体";
+	margin-left: 0px;
+	margin-top:0px ;
+}
+
+.jd_ec-box:first-child{
+	margin-top: -60px;
+}
+
+
+.jd_ec{
+	background: url(../images/express/jd_dzmd.png) 0 0 ;
+	display: inline-block;
+	background-size:100% 100%;
+}
+.jd_ec .order-no {
+	width: 211px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	text-align:center;
+	top: 60px;
+	left: 238px;
+	font-size: 13pt;
+
+}
+.jd_ec .warehouse{
+	line-height: 20px;
+	position: absolute;
+	top: 37px;
+	left: 462px;
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: middle;
+	padding: 3px;
+	border: 2px solid #000;
+}
+.jd_ec .order-bono {
+	width: 535px;
+	height: 50px;
+	position: absolute;
+	top: 38px;
+	left: 12px;
+	font-size: 14pt;
+
+}
+.jd_ec .order-bono2 {
+	width: 536px;
+	height: 27px;
+	line-height: 16px;
+	position: absolute;
+	top: 101px;
+	left: 12px;
+	font-size: 16pt;
+	text-align: center;
+
+}
+.jd_ec .order-bono3 {
+	width: 322px;
+	height: 32px;
+	position: absolute;
+	top: 442px;
+	left: 13px;
+	font-size: 13pt;
+
+}
+.jd_ec .order-bono4 {
+	width: 319px;
+	height: 19px;
+	line-height: 14px;
+	position: absolute;
+	top: 498px;
+	left: 15px;
+	text-align: center;
+	font-size: 16pt;
+
+}
+
+
+
+.jd_ec .order-destination1 {
+	width: 115px;
+	height: 29px;
+	line-height: 20px;
+	position: absolute;
+	top: 94px;
+	left: 408px;
+
+	font-size: 16pt;
+
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+
+
+.jd_ec .order-destination2 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 154px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+.jd_ec .order-destination3 {
+	width: 166px;
+	height: 32px;
+	line-height: 24px;
+	position: absolute;
+	top: 122px;
+	left: 379px;
+	font-size: 14pt;
+	text-align:left;
+	vertical-align:middle;
+
+}
+.jd_ec .order-destination3 span,.jd_ec .order-destination2 span{
+	font-size: 24pt;
+}
+.jd_ec .order-recipient1{
+	width: 476px;
+	height: 18px;
+	line-height: 16px;
+	position: absolute;
+
+	top: 210px;
+	left: 64px;
+	font-size: 14pt;
+
+}
+.jd_ec .order-recipient2{
+	width: 477px;
+	height: 51px;
+	position: absolute;
+	top: 234px;
+	left: 64px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-baojia1{
+	width: 166px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 156px;
+	left: 13px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-baojia2{
+	width: 83px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 121px;
+	left: 193px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-baojia3{
+	width: 110px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 125px;
+	left: 201px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-baojia4{
+	width: 160px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 177px;
+	left: 13px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-baojia5{
+	width: 157px;
+	height: 14px;
+	line-height: 12px;
+	position: absolute;
+	top: 176px;
+	left: 198px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-baojia6{
+	width: 138px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 183px;
+	left: 25px;
+	font-size: 12pt;
+}
+.jd_ec .order-baojia7{
+	width: 334px;
+	height: 54px;
+	line-height: 100%;
+	position: absolute;
+	top: 196px;
+	left: 13px;
+	font-size: 12pt;
+}
+.jd_ec .order-baojia8{
+	width: 71px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 185px;
+	left: 304px;
+	font-size: 12pt;
+}
+
+
+.jd_ec .order-huokuan1{
+	width: 162px;
+	height: 19px;
+	line-height: 12px;
+	position: absolute;
+	top: 147px;
+	left: 385px;
+	font-size: 14pt;
+
+}
+.jd_ec .order-huokuan2{
+	width: 129px;
+	height: 34px;
+	line-height: 16px;
+	position: absolute;
+	top: 172px;
+	text-align: left;
+	left: 416px;
+	font-size: 14pt;
+
+}
+.jd_ec .order-mdd{
+	width: 63px;
+	height: 19px;
+
+	line-height: 16px;
+	position: absolute;
+	top: 122px;
+	text-align: left;
+	left: 379px;
+	font-size: 14pt;
+
+}
+.jd_ec .order-yunfei1{
+	width: 104px;
+	height: 37px;
+	line-height: 14px;
+	position: absolute;
+	top: 218px;
+	left: 415px;
+	font-size: 32pt;
+
+}
+.jd_ec .order-yunfei2{
+	width: 114px;
+	height: 14px;
+	line-height: 14px;
+	position: absolute;
+	top: 254px;
+	text-align: left;
+	left: 12px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-jijian{
+	width: 320px;
+	height: 40px;
+	line-height: 12np0%;
+	position: absolute;
+	top: 296px;
+	left: 13px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-jijian2{
+	width: 115px;
+	height: 20px;
+	line-height: 100%;
+	position: absolute;
+	top: 528px;
+	left: 10px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-jijian3{
+	width: 185px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 371px;
+	left: 156px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-jijian4{
+	width: 188px;
+	height: 20px;
+	line-height: 100%;
+	position: absolute;
+	top: 393px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-shoujian1{
+	width: 190px;
+	height: 19px;
+	line-height: 12px;
+	position: absolute;
+	top: 275px;
+	left: 12px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-shoujian2{
+	width: 145px;
+	height: 18px;
+	line-height: 12px;
+	position: absolute;
+	top: 276px;
+	left: 215px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-shoujian3{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 305px;
+	left: 23px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-yjd{
+	width: 112px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 480px;
+	left: 155px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-logo {
+	width: 219px;
+	height: 45px;
+	line-height: 12px;
+	position: absolute;
+	top: 514px;
+	left: 17px;
+	font-size: 12pt;
+}
+.jd_ec .order-logo img{
+	width:227px;
+	height:68px;
+}
+.jd_ec .order-shoujian4{
+	width: 142px;
+	height: 22px;
+	line-height: 100%;
+	position: absolute;
+	top: 547px;
+	left: 211px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-shoujian5{
+	width: 158px;
+	height: 13px;
+	line-height: 10px;
+	position: absolute;
+	top: 422px;
+	left: 179px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-shoujian6{
+	width: 142px;
+	height: 18px;
+	line-height: 100%;
+	position: absolute;
+	top: 419px;
+	left: 14px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-shoujian7{
+	width: 37px;
+	height: 65px;
+	line-height: 100%;
+	position: absolute;
+	top: 201px;
+	left: 19px;
+	font-size: 20pt;
+
+}
+.jd_ec .order-dingdan1{
+	width: 176px;
+	height: 14px;
+	line-height: 10px;
+	position: absolute;
+	top: 403px;
+	left: 353px;
+	font-size: 12pt;
+}
+.jd_ec .order-beizhu2{
+	width: 51px;
+	height: 23px;
+	line-height: 10px;
+	position: absolute;
+	top: 424px;
+	line-height: 150%;
+	left: 353px;
+	font-size: 12pt;
+}
+
+.jd_ec .order-beizhu3{
+	width: 178px;
+	height: 152px;
+	line-height: 10px;
+	position: absolute;
+	top: 448px;
+	line-height: 120%;
+	left: 354px;
+	font-size: 10pt;
+}
+
+.jd_ec .order-tuojiwu{
+	width: 186px;
+	height: 22px;
+	line-height: 100%;
+	position: absolute;
+	top: 548px;
+	left: 10px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-qiandao1{
+	width: 89px;
+	height: 17px;
+	line-height: 12px;
+	position: absolute;
+	top: 262px;
+	left: 386px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-qiandao2{
+	width: 114px;
+	height: 12px;
+	line-height: 12px;
+	position: absolute;
+	top: 482px;
+	left: 426px;
+	font-size: 12pt;
+
+}
+
+.jd_ec .order-beizhu{
+	width: 334px;
+	height: 32px;
+	line-height: 100%;
+	position: absolute;
+	top: 570px;
+	left: 9px;
+	font-size: 12pt;
+
+}
+.jd_ec .order-heji{
+	width: 85px;
+	height: 48px;
+	line-height: 12px;
+	position: absolute;
+	top: 772px;
+	left: 470px;
+	font-size: 12pt;
+
+}
+
+
+.jd_ec .order-send {
+	width: 100px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 747px;
+
+}
+.jd_ec .order-receivercity{
+	width: 89px;
+	height: 37px;
+	line-height: 37px;
+	position: absolute;
+	top: 81px;
+	left: 849px;
+
+
+}
+.jd_ec .shipper-company {
+	width: 231px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	top: 148px;
+	left: 136px;
+}
+
+.jd_ec .time01{
+	width: 90px;
+	height: 24px;
+	line-height: 25px;
+	position: absolute;
+	top: 323px;
+	left: 310px;
+	font-size: 9pt;
+}
+
+.jd_ec .time02{
+	width: 96px;
+	height: 24px;
+	line-height: 25px;
+	position: absolute;
+	top: 601px;
+	left: 300px;
+	font-size: 9pt;
+}
+
+.jd-kd {
+	background: url(../images/express/jd.jpg) red no-repeat 0px -21px;
+}
+.jd-kd .order-no {
+	width: 241px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 57px;
+	left: 238px;
+	font-size: 13pt;
+	background: red;
+}
+.jd-kd .time01{
+	width: 241px;
+	height: 28px;
+	line-height: 25px;
+	position: absolute;
+	top: 157px;
+	left: 108px;
+	font-size: 13pt;
+	background: red;
+}
+
+/*JD电子面单打印 E*

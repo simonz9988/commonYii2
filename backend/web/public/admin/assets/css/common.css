@@ -1,0 +1,71 @@
+.dropdown-submenu {
+    position: relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: 0px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+.dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 10px;
+    margin-right: 0px;
+}
+.dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+.dropdown-submenu.dropdown-submenu-left {
+
+}
+.dropdown-submenu.dropdown-submenu-left > .dropdown-menu {
+    left: -107%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.judged-div .form-group .col-md-9{
+    position:relative;
+}
+.judged-div .form-group .col-md-9 span.text-success{
+    position: absolute;
+    right: 14px;
+    top: 15px;
+}
+.judged-div .form-group .col-md-9 span.text-danger{
+    position: absolute;
+    right: 29px;
+    top: 6px;
+}
+
+
+.judged-div .form-group .col-md-9 span.text-success{
+    position: absolute;
+    right: 26px;
+    top: 6px;
+}
+.judged-div table td{
+    position:relative;
+}
+
+.judged-div table td span.text-success{
+    position: absolute;
+    right: 14px;
+    top: 15px;
+}

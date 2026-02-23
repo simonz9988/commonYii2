@@ -1,0 +1,29 @@
+{
+    "name": "alcad/yii2-cas",
+    "description": "Simple client for CAS",
+    "keywords": ["yii2", "yii2-cas", "cas client for yii", "alcad", "cas client"],
+    "type": "yii2-extension",
+    "license": "GPLv2",
+    "support": {
+        "issues": "https://github.com/alcad/yii2-cas/issues?state=open",
+        "source": "https://github.com/alcad/yii2-cas"
+    },
+    "authors": [
+        {
+            "name": "Alessio Chiga",
+            "email": "info@alcad.it",
+            "homepage": "http://alcad.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii2": "~2.0",
+        "jasig/phpcas": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alcad\\cas\\": ""
+        }
+    }
+}
